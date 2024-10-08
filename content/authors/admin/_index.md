@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Erdem Lamazhapov
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Эрдэм Ламажапов
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Erdem
+last_name: Lamazhapov
 
 # Status emoji
 status:
@@ -20,51 +20,47 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Fridtjof Nansen Institute
+    url: https://fni.no/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:elamazhapov@fni.no'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://twitter.com/erdemlam
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/erdem-l-473a71157/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=A12HfR4AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-1501-9615
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - International relations
+  - Arctic geopolitics
+  - China's Arctic policy
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MPhil Peace and Conflict Studies
+    institution: University of Oslo
+    date_start: 2018-08-01
+    date_end: 2020-06-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Environmental security and Arctic. Supervised by Prof Elana Wilson Rowe (https://www.nmbu.no/om/ansatte/elana-wilson-rowe).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'http://urn.nb.no/URN:NBN:no-83176'
+  - area: BA International Relations
+    institution: Seoul National University
+    date_start: 2012-09-01
+    date_end: 2017-02-31
     summary: |
       GPA: 3.8/4.0
 

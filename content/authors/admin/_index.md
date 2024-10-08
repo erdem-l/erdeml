@@ -51,7 +51,7 @@ education:
   - area: MPhil Peace and Conflict Studies
     institution: University of Oslo
     date_start: 2018-01-08
-    date_end: 2020-31-06
+    date_end: 2020-06-31
     summary: |
       Thesis on Environmental security and Arctic. Supervised by Prof Elana Wilson Rowe (https://www.nmbu.no/om/ansatte/elana-wilson-rowe).
     button:

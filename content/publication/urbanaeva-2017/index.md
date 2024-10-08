@@ -20,5 +20,5 @@ abstract: The article sets the priority of a philosophical and theological appro
 links:
 - name: URL
   url: https://elibrary.ru/item.asp?id=30382447
-  url_pdf: uploads/КОНЦЕПТУАЛИЗАЦИЯ ЕДИНСТВА.pdf
+url_pdf: uploads/КОНЦЕПТУАЛИЗАЦИЯ ЕДИНСТВА.pdf
 ---

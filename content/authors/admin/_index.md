@@ -50,8 +50,8 @@ interests:
 education:
   - area: MPhil Peace and Conflict Studies
     institution: University of Oslo
-    date_start: 2018-01-08
-    date_end: 2020-06-31
+    date_start: "2018-01-08T00:00:00Z"
+    date_end: "2020-06-31T00:00:00Z"
     summary: |
       Thesis on Environmental security and Arctic. Supervised by Prof Elana Wilson Rowe (https://www.nmbu.no/om/ansatte/elana-wilson-rowe).
     button:
@@ -59,8 +59,8 @@ education:
       url: 'http://urn.nb.no/URN:NBN:no-83176'
   - area: BA International Relations
     institution: Seoul National University
-    date_start: 2012-01-09
-    date_end: 2017-31-02
+    date_start: "2012-01-09T00:00:00Z"
+    date_end: "2017-31-02T00:00:00Z"
     summary: |
       GPA: 3.8/4.0
 
@@ -70,8 +70,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: "2016-01-01"
+    date_end: "2020-12-31"
     summary: |
       GPA: 3.4/4.0
       
@@ -84,7 +84,7 @@ work:
     company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: "2021-01-01"
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -95,8 +95,8 @@ work:
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: "2016-01-01"
+    date_end: "2020-12-31"
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center

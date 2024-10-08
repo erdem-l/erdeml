@@ -51,7 +51,7 @@ education:
   - area: MPhil Peace and Conflict Studies
     institution: University of Oslo
     date_start: "2018-01-08T00:00:00Z"
-    date_end: "2020-06-31T00:00:00Z"
+    date_end: "2020-06-30T00:00:00Z"
     summary: |
       Thesis on Environmental security and Arctic. Supervised by Prof Elana Wilson Rowe (https://www.nmbu.no/om/ansatte/elana-wilson-rowe).
     button:
@@ -60,7 +60,7 @@ education:
   - area: BA International Relations
     institution: Seoul National University
     date_start: "2012-01-09T00:00:00Z"
-    date_end: "2017-31-02T00:00:00Z"
+    date_end: "2017-27-02T00:00:00Z"
     summary: |
       GPA: 3.8/4.0
 

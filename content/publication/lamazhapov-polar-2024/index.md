@@ -8,7 +8,9 @@ publication_types:
 - article-journal
 publication: '*Geopolitics*'
 doi: 10.1080/14650045.2024.2408601
+featured: true
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/14650045.2024.2408601
+  url_pdf: uploads/Accepted Manuscript Polar Contradictions China’s Dialectical Thinking About the Arctic.pdf
 ---

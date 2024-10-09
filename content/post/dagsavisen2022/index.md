@@ -9,6 +9,6 @@ tags:
   - Kronikk
   - Russland
   - Ukraina
-image: mongolia.jpg
+image: 
   caption: 'Image credit: [BYAMBASUREN BYAMBA-OCHIR](AFP)'
 ---

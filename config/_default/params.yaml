@@ -62,5 +62,4 @@ features:
     enable: false
 
 appearance:
-  mode: dark
   color: iceberg

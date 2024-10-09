@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo: logo.png
-      text: "Erdem Lamazhapov"
+    text: "Erdem Lamazhapov"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Erdem Lamazhapov. This work is licensed under {license}， unless otherwise stated' 
+    notice: '© {year} Erdem Lamazhapov. This work is licensed under {license}, unless otherwise stated' 
     license:
       enable: true
       allow_derivatives: false

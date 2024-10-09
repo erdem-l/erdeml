@@ -11,7 +11,6 @@ last_name: Lamazhapov
 
 # Status emoji
 status:
-  color: white
   icon: 🐻‍❄️
 
 # Is this the primary user of the site?
@@ -63,12 +62,13 @@ education:
     date_start: "2012-09-01T00:00:00Z"
     date_end: "2017-02-27T00:00:00Z"
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Activities and societies: ShARE-Seoul, 19th generation (2013-2014); 
+      SNU International Students Association, Executive Board member (2014-2017)
+      Activities and societies: ShARE-Seoul, 19th generation (2013-2014); SNU International Students Association, Executive Board member (2014-2017) 
+      Honors Thesis: "Comparative Analysis of Hydropower Development in the Aral Sea and the Mekong River Basins – Middle Riparian Approach"
+      SNU Global Scholarship (2012) 
+      SNU Scholarship for International Students (2014 – 2017)
+      SNU Working Scholarship (2014 – 2017)
 
 work:
   - position: PhD Research Fellow

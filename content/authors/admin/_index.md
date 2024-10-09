@@ -11,6 +11,7 @@ last_name: Lamazhapov
 
 # Status emoji
 status:
+  color: white
   icon: 🐻‍❄️
 
 # Is this the primary user of the site?
@@ -53,7 +54,7 @@ education:
     date_start: "2018-08-01T00:00:00Z"
     date_end: "2020-06-30T00:00:00Z"
     summary: |
-      Thesis on Environmental security and Arctic. Supervised by Prof Elana Wilson Rowe (https://www.nmbu.no/om/ansatte/elana-wilson-rowe).
+      Thesis on Environmental security and Arctic. Supervised by [Prof Elana Wilson Rowe](https://www.nmbu.no/om/ansatte/elana-wilson-rowe).
     button:
       text: 'Read Thesis'
       url: 'http://urn.nb.no/URN:NBN:no-83176'
@@ -78,20 +79,19 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Writing PhD
+      Supervised by [Prof Olav Schram Stokke](https://www.sv.uio.no/isv/personer/vit/olavssto/ and [Prof Iver B. Neumann](https://www.fni.no/staff/leadership-group/iver-b-neumann)
+  - position: Research Assistant
+    company_name: Institute for Mongolian, Buddhist and Tibetan Studies
+    company_url: 'https://imbt.ru/'
     company_logo: ''
-    date_start: "2016-01-01"
-    date_end: "2020-12-31"
+    date_start: "2017-04-01"
+    date_end: "2018-08-31"
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities included:
+      - Authored multiple chapters for a collective monograph, written as part of the project funded by the Russian Science Foundation
+      - Published three articles in peer-reviewed journals, which cleared misunderstanding about some previously ignored aspects of the interaction of state and religion in Korea, such as the Japanese colonial religious policy and use of Buddhism as a tool in public diplomacy
+      - Copy-edited and translated co-authored and senior researchers’ peer-reviewed papers, conference papers and book chapters before final drafts were sent to the publisher
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

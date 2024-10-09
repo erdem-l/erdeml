@@ -4,7 +4,6 @@ title: 2024青年汉学家研修计划自我介绍
 event: 我的中国故事
 #event_url: 
 
-{{< youtube _BbAEjXHc0g >}}
 
 #location: South China Business College, Guangdong University of Foreign Studies (SCBC)
 #address:
@@ -63,3 +62,5 @@ featured: false
 #projects:
 #  - example
 ---
+
+{{< youtube _BbAEjXHc0g >}}

@@ -53,7 +53,7 @@ education:
     date_start: "2018-08-01T00:00:00Z"
     date_end: "2020-06-30T00:00:00Z"
     summary: |
-      Thesis on Environmental security and Arctic. Supervised by [Prof Elana Wilson Rowe](https://www.nmbu.no/om/ansatte/elana-wilson-rowe).
+      Thesis on Environmental security and Arctic. Supervised by Prof Elana Wilson Rowe.
     button:
       text: 'Read Thesis'
       url: 'http://urn.nb.no/URN:NBN:no-83176'
@@ -62,13 +62,14 @@ education:
     date_start: "2012-09-01T00:00:00Z"
     date_end: "2017-02-27T00:00:00Z"
     summary: |
-      Activities and societies: ShARE-Seoul, 19th generation (2013-2014); 
-      SNU International Students Association, Executive Board member (2014-2017)
-      Activities and societies: ShARE-Seoul, 19th generation (2013-2014); SNU International Students Association, Executive Board member (2014-2017) 
-      Honors Thesis: "Comparative Analysis of Hydropower Development in the Aral Sea and the Mekong River Basins – Middle Riparian Approach"
-      SNU Global Scholarship (2012) 
-      SNU Scholarship for International Students (2014 – 2017)
-      SNU Working Scholarship (2014 – 2017)
+      Activities and societies:
+      - ShARE-Seoul, 19th generation (2013-2014);
+      - SNU International Students Association, Executive Board member (2014-2017) 
+      Honors Thesis: 
+      - "Comparative Analysis of Hydropower Development in the Aral Sea and the Mekong River Basins – Middle Riparian Approach"
+      - SNU Global Scholarship (2012) 
+      - SNU Scholarship for International Students (2014 – 2017)
+      - SNU Working Scholarship (2014 – 2017)
 
 work:
   - position: PhD Research Fellow
@@ -80,7 +81,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Writing PhD
-      Supervised by [Prof Olav Schram Stokke](https://www.sv.uio.no/isv/personer/vit/olavssto/ and [Prof Iver B. Neumann](https://www.fni.no/staff/leadership-group/iver-b-neumann)
+      Supervised by Prof Olav Schram Stokke and Prof Iver B. Neumann
   - position: Research Assistant
     company_name: Institute for Mongolian, Buddhist and Tibetan Studies
     company_url: 'https://imbt.ru/'

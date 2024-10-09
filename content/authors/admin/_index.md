@@ -70,9 +70,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: PhD Research Fellow
+    company_name: Fridtjof Nansen Institute
+    company_url: 'https://www.fni.no/'
     company_logo: ''
     date_start: "2021-01-01"
     date_end: ''

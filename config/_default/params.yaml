@@ -60,3 +60,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+appearance:
+  mode: dark
+  color: iceberg

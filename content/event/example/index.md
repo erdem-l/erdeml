@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: Potential for Environmental Cooperation in the Arctic
-abstract: 'I talked about the potential for environmental cooperation between China and Russia in the Arctic region. I discussed the geopolitical changes due to the "special military operation," climate and environmental challenges in the Russian Arctic, and Russia's policy responses. I also highlighted China's Arctic Policy White Paper, which aims to understand, protect, and develop the Arctic while participating in its governance. The presentation emphasized the reputational risks for China in case of environmental disasters, and the need for increased environmental impact assessments. It concluded by discussing the balance between protection and development, China's carbon peak and neutrality goals, and the potential for cooperation within Arctic Council working groups.'
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -41,26 +41,26 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+# url_code: 'https://github.com'
+#url_pdf: ''
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+#slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
----
+#projects:
+#  - example
+#---
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

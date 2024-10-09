@@ -149,10 +149,10 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards: 
   - title: Excellent Semester Report Award
-    url: 
+    url: uploads/award1.png
     date: '2013-02-28'
     awarder: Seoul National University
-    icon: uploads/award1.png
+    icon: 
     summary: |
       
   - title:  

@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Talk at the 8th CNARC Symposium
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 8th CNARC Symposium
+event_url: https://www.cnarc.info/news/the-8th-cnarc-symposium-held-in-guangzhou-china
 
-location: Hugo Blox Builder HQ
+location: South China Business College, Guangdong University of Foreign Studies (SCBC)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 白云区良田中路181号
+  city: Guangzhou
+  region: Guangdong
+  postcode: '510540'
+  country: China
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Potential for Environmental Cooperation in the Arctic
+abstract: 'I talked about the potential for environmental cooperation between China and Russia in the Arctic region. I discussed the geopolitical changes due to the "special military operation," climate and environmental challenges in the Russian Arctic, and Russia's policy responses. I also highlighted China's Arctic Policy White Paper, which aims to understand, protect, and develop the Arctic while participating in its governance. The presentation emphasized the reputational risks for China in case of environmental disasters, and the need for increased environmental impact assessments. It concluded by discussing the balance between protection and development, China's carbon peak and neutrality goals, and the potential for cooperation within Arctic Council working groups.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-12-04T13:00:00Z'
+#date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

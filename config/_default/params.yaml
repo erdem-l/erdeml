@@ -34,7 +34,9 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo: logo.png
+    logo:
+      text: "Erdem seal mongol bichig"
+      filename: logo.png
     text: "Erdem Lamazhapov"
 
 # Site footer

@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Erdem Lamazhapov. This work is licensed under {license}， unless otherwise stated' 
     license:
       enable: true
       allow_derivatives: false

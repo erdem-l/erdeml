@@ -1,5 +1,5 @@
 ---
-title:  Den polare silkeveien ser ut til å ha blitt satt på vent
+title:  "Den polare silkeveien ser ut til å ha blitt satt på vent"
 summary: Russlands krig mot Ukraina påvirker Kinas engasjement i Arktis.
 date: 2023-11-13
 url: 

@@ -17,7 +17,7 @@ tags:
   - Russland
   - Ukraina
 ---
-Kronikk i [Vårt Land]()
+Kronikk i [Vårt Land](https://www.vl.no/meninger/verdidebatt/2022/12/16/paven-taler-som-en-rasist-det-tjener-russland-pa/)
 
 Til tross for sin rettighetsløse posisjon har etniske minoriteter mange ganger protestert mot krigen. Det er derfor påfallende hvor ivrig pave Frans er etter å gi avlat til etnisk russiske soldater.
 

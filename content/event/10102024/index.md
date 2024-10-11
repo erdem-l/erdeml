@@ -1,6 +1,6 @@
 ---
-title: The New Superpower: India's Role in the Arctic
-event: The New Superpower: India's Role in the Arctic
+title: "The New Superpower: India's Role in the Arctic"
+event: "The New Superpower: India's Role in the Arctic"
 event_url: https://www.fni.no/events/the-new-superpower-indias-role-in-the-world-and-the-arctic
 
 location: Youngs, 

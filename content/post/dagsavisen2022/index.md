@@ -4,7 +4,7 @@ summary: Krigen i Ukraina har ført Mongolia ut i en vanskelig, geopolitisk bala
 date: 2022-11-15
 authors:
   - admin
-url: "https://www.dagsavisen.no/debatt/2022/11/15/i-skvis-mellom-russland-og-kina/"
+url: 
 url_pdf: content/post/dagsavisen2022/Dagsavisen_121122.pdf
 
 tags:

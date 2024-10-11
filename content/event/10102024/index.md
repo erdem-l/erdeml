@@ -1,6 +1,5 @@
 ---
 title: The New Superpower: India's Role in the Arctic
-
 event: The New Superpower: India's Role in the Arctic
 event_url: https://www.fni.no/events/the-new-superpower-indias-role-in-the-world-and-the-arctic
 
@@ -17,7 +16,7 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12-04T13:00:00Z'
+date: '2024-10-10T14:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 

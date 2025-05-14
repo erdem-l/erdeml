@@ -4,7 +4,7 @@ authors:
 - Erdem Lamazhapov
 - Arild Moe
 date: '2024-11-01'
-publishDate: '2025-05-14T20:10:05.058280Z'
+publishDate: '2025-05-14'
 publication_types:
 - article-journal
 publication: '*Strategic Analysis*'

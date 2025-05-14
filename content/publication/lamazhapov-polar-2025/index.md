@@ -4,6 +4,7 @@ authors:
 - Erdem Lamazhapov
 date: '2025-05-01'
 publishDate: '2025-05-14'
+featured: true
 publication_types:
 - article-journal
 publication: '*Geopolitics*'

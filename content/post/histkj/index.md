@@ -15,4 +15,4 @@ authors:
 
 tags:
   - Mongolia
-  ---
+---

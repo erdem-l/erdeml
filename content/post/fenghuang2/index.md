@@ -23,7 +23,7 @@ event: 鳳凰聚焦
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-10-2500:00:00Z'
+publishDate: '2023-10-25T00:00:00Z'
 
 authors:
   - admin
@@ -63,4 +63,4 @@ featured: false
 #  - example
 ---
 
-{{< youtube id=J--7Fm-s-hk start=1416 >}}
+{{< youtube id=J--7Fm-s-hk start=1417 >}}

@@ -2,7 +2,7 @@
 title: Djengis Khan – brutal verdenshersker
 summary: Den krigerske mongolen skapte et av tidenes største imperier.
 date: 2023-06-07
-url: "radio.nrk.no/podkast/historiske_kjendiser/sesong/1/l_99a87293-985e-40da-a872-93985eb0da0f"
+url: 
 url_pdf: 
 
 # Featured image
@@ -16,3 +16,4 @@ authors:
 tags:
   - Mongolia
 ---
+Fra [NRK](https://radio.nrk.no/podkast/historiske_kjendiser/sesong/1/l_99a87293-985e-40da-a872-93985eb0da0f)

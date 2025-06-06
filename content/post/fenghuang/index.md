@@ -63,4 +63,4 @@ featured: false
 #  - example
 ---
 
-{{< youtube W1yeJJn2Blg?si=-FqU2yk7hUBPu7Rc&t=1923 >}}
+{{< youtube W1yeJJn2Blg >}}

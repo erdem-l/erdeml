@@ -1,7 +1,7 @@
 ---
-title: 熾熱北冰洋—2023北極行動 ｜鳳凰衛視電視行動再度啟航 直擊北冰洋的冷峻與熾熱｜皇牌大放送｜紀錄片｜北冰洋
+title: 穿越北極！普京宣佈北方海路將全年通航，“北方海路”是什麼？鳳凰衛視北極行動親赴探訪！｜北極行動──破冰爭霸｜鳳凰聚焦｜Arctic Circle
 
-event: 熾熱北冰洋
+event: 鳳凰聚焦
 #event_url: 
 
 
@@ -23,7 +23,7 @@ event: 熾熱北冰洋
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-12-10T00:00:00Z'
+publishDate: '2023-10-2500:00:00Z'
 
 authors:
   - admin
@@ -63,4 +63,4 @@ featured: false
 #  - example
 ---
 
-{{< youtube W1yeJJn2Blg start=1923 >}}
+{{< youtube J--7Fm-s-hk start=1416 >}}

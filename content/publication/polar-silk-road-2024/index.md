@@ -4,7 +4,7 @@ authors:
 - Erdem Lamazhapov
 - Gørild Heggelund
 - Iselin Stensdal
-date: '2024-01-01'
+date: '2024-08-22'
 publishDate: '2024-10-08T19:32:43.127905Z'
 featured: true
 publication_types:

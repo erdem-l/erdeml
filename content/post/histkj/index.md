@@ -16,4 +16,4 @@ authors:
 tags:
   - Mongolia
 ---
-Fra [NRK](https://radio.nrk.no/podkast/historiske_kjendiser/sesong/1/l_99a87293-985e-40da-a872-93985eb0da0f)
+[Hør podkasten hos NRK](https://radio.nrk.no/podkast/historiske_kjendiser/sesong/1/l_99a87293-985e-40da-a872-93985eb0da0f)

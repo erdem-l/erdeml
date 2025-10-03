@@ -51,5 +51,5 @@ image:
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
-{{< youtube CFCXCepjM64 >}}
 ---
+{{< youtube CFCXCepjM64 >}}

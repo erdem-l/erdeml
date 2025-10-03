@@ -52,5 +52,4 @@ image:
 #projects:
 #  - example
 {{< youtube CFCXCepjM64 >}}
-
 ---

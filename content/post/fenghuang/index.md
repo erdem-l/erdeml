@@ -63,4 +63,4 @@ featured: false
 #  - example
 ---
 
-{{< youtube id=W1yeJJn2Blg start=1923 >}}
+{{< bilibili id="BV1Hu4y1G7Kk" >}}

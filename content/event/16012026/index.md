@@ -1,7 +1,7 @@
 ---
 title: "Counting the Cost - Al Jazeera"
 event: "Counting the Cost - Al Jazeera"
-event_url: https://www.aljazeera.com/video/counting-the-cost/2026/1/16/eu-latin-america-trade-deal-who-wins-2
+event_url: "https://www.aljazeera.com/video/counting-the-cost/2026/1/16/eu-latin-america-trade-deal-who-wins-2"
 
 #location: SALT 
 #address:

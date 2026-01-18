@@ -40,4 +40,4 @@ featured: false
 #projects:
 #  - example
 ---
-{{< youtube 68u8KCe4o34 start=1407 >}}
+{{< youtube id=68u8KCe4o34 start=1407 >}}

@@ -5,11 +5,7 @@ event_url: https://www.aljazeera.com/video/counting-the-cost/2026/1/16/eu-latin-
 
 #location: SALT 
 #address:
-  street: 1 Langkaia
-  city: Oslo
-  region: Oslo
-  postcode: '0150'
-  country: Norway
+
 
 #summary: 
 #abstract: ''
@@ -32,8 +28,6 @@ tags: []
 featured: true
 
 #image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 
 #links:
 #  - icon: twitter
@@ -60,4 +54,4 @@ featured: true
 #projects:
 #  - example
 ---
-{{< youtube 68u8KCe4o34 >}}
+{{< youtube 68u8KCe4o34 start=1407 >}}

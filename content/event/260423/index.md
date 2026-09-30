@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "How do you make a policymaker listen? A new lesson at this year’s High North Dialogue Academy – High North Dialogue, 2026-04-23. Erdem Lamazhapov…"
 ---

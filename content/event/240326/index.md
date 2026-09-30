@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Could the Arctic rewrite global trade? – Programme participation, 2026-03-24. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

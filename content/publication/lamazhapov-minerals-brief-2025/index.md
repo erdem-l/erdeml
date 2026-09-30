@@ -1,9 +1,9 @@
 ---
 title: 'China’s dominance in the critical minerals supply chain: Consequences and challenges'
 authors:
-- Erdem Lamazhapov
+- admin
 - Patrik Andersson
-- Gørild M. Heggelund
+- Gørild Heggelund
 - Xinyuan Zhang
 - Iselin Stensdal
 date: '2025-01-01'
@@ -15,4 +15,5 @@ abstract: "China’s long-term policies have given it a dominant position in the
 links:
 - name: URL
   url: https://www.fni.no/publications/china-s-dominance-in-the-critical-minerals-supply-chain-consequences-and-challenges
+description: "China’s long-term policies have given it a dominant position in the mineral supply chain. Reducing dependency on China creates challenges for the green…"
 ---

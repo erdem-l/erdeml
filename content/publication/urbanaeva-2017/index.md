@@ -3,7 +3,7 @@ title: Концептуализация единства и многообраз
   контексте
 authors:
 - Irina Urbanaeva
-- Erdem Lamazhapov
+- admin
 date: '2017-01-01'
 publishDate: '2024-10-08T19:32:43.146960Z'
 publication_types:
@@ -21,4 +21,5 @@ links:
 - name: URL
   url: https://elibrary.ru/item.asp?id=30382447
 url_pdf: uploads/urbanaeva-lamazhapov-2017-buddhism-unity.pdf
+description: "The article sets the priority of a philosophical and theological approach"
 ---

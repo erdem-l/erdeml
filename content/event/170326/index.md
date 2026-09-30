@@ -10,4 +10,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Norge i en ny verdensorden – NTNU Dragvoll, 2026-03-17. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

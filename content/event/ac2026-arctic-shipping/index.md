@@ -12,6 +12,7 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Arctic Circle Assembly 2026, Reykjavík. Organized by: Korea Maritime Institute (KMI); Fridtjof Nansen Institute (FNI), Norway."
 ---
 Organized by: Korea Maritime Institute (KMI); Fridtjof Nansen Institute (FNI), Norway. Erdem Lamazhapov's role: moderator.
 

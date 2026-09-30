@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Bering Strait: The Forgotten Arctic Chokepoint Shaping US, Russia and China’s Future – Archysport, 2026-08-23. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

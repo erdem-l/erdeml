@@ -2,7 +2,7 @@
 title: Russia’s expanding adaptation agenda and its limitations
 authors:
 - Arild Moe
-- Erdem Lamazhapov
+- admin
 - Oleg Anisimov
 date: '2023-02-01'
 publishDate: '2024-10-08T19:32:43.134365Z'
@@ -14,4 +14,5 @@ abstract: "Russian science has long warned of adverse climate impacts (also noti
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/14693062.2022.2107981
+description: "Russian science has long warned of adverse climate impacts (also noting some positive effects), but state policies have been lacking. By analysing key…"
 ---

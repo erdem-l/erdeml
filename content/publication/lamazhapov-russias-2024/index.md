@@ -1,7 +1,7 @@
 ---
 title: 'Russia’s Geopolitical Position in the Arctic: What’s New?'
 authors:
-- Erdem Lamazhapov
+- admin
 - Arild Moe
 date: '2024-11-01'
 publishDate: '2025-05-14'
@@ -14,4 +14,5 @@ abstract: "This paper examines the recent transformation of Russia’s geopoliti
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/09700161.2025.2459571
+description: "This paper examines the recent transformation of Russia’s geopolitical position in the Arctic in light of its 2022 invasion of Ukraine and the subsequent…"
 ---

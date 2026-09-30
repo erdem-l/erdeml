@@ -10,4 +10,5 @@ authors:
 tags: []
 featured: false
 url_pdf: lexpress-detroit-de-bering.pdf
+description: "Détroit de Béring : ce corridor « oublié » qui pourrait devenir hautement stratégique – L'Express, 2026-08-22. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

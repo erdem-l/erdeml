@@ -10,4 +10,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Arktis/Nordområdene mellom stormaktene – Røvær Havbrukssenter – Komle og kunnskap, 2026-09-24. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

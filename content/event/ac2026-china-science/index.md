@@ -12,6 +12,7 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Arctic Circle Assembly 2026, Reykjavík. Organized by: University of Lapland, Finland; The Polar Research Institute of China; Fridtjof Nansen Institute…"
 ---
 Organized by: University of Lapland, Finland; The Polar Research Institute of China; Fridtjof Nansen Institute, Norway; The Arctic Institute, USA. Erdem Lamazhapov's role: speaker.
 

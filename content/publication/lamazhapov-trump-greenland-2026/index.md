@@ -1,7 +1,7 @@
 ---
 title: 'Trump’s Vision for Greenland and the Emerging World Order'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2026-02-17'
 publishDate: '2026-02-17'
 publication_types:
@@ -19,4 +19,5 @@ url_pdf: uploads/lamazhapov-trumps-vision-for-greenland-2026.pdf
 links:
 - name: URL
   url: https://www.e-ir.org/p/trumps-vision-for-greenland-and-the
+description: "Argues that President Trump’s renewed bid to acquire Kalaallit Nunaat (Greenland) cannot be fully explained by narrow security or resource interests, but…"
 ---

@@ -51,5 +51,6 @@ image:
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
+description: "The Democracy Forum – China’s strategic interest in the Arctic and implications for global energy markets, 2025-09-30. Erdem Lamazhapov, Fridtjof Nansen…"
 ---
 {{< youtube CFCXCepjM64 >}}

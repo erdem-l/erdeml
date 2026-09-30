@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "La guerra nel Golfo e il nodo del GNL – Media interview, 2026-03-09. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

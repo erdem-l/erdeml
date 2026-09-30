@@ -9,6 +9,7 @@ tags:
   - Kronikk
   - Grønland
 image:
+  alt_text: 'Newspaper clipping of the kronikk in Morgenbladet, with a photo of Greenlanders holding a "We are not for sale" sign'
   caption: 'Morgenbladet nr. 38, 25. september–1. oktober 2026 (trykt tittel: «Kampen om Grønland fortsetter»)'
 ---
 Kronikk i [Morgenbladet](https://www.morgenbladet.no/ideer/kampen-om-gronland-er-ikke-over/10533879)

@@ -3,7 +3,7 @@ title: 'Dig, Baby, Dig? China''s Mineral Dominance and Ripple Effects into the A
 authors:
 - Gørild Heggelund
 - Iselin Stensdal
-- Erdem Lamazhapov
+- admin
 date: '2026-01-06'
 publishDate: '2026-01-06'
 publication_types:
@@ -13,4 +13,5 @@ abstract: "The article links renewed US interest in Greenland to China’s globa
 links:
 - name: URL
   url: https://www.thearcticinstitute.org/dig-baby-dig-chinas-mineral-dominance-ripple-effects-arctic/
+description: "The article links renewed US interest in Greenland to China’s global dominance in mineral extraction and processing. The authors argue that Greenland’s…"
 ---

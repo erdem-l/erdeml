@@ -1,7 +1,7 @@
 ---
 title: 'Polar regions for global status: China’s great power discourse and status-seeking practice in the Arctic and Antarctic'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2025-10-15'
 publishDate: '2025-10-15T19:32:43.134365Z'
 featured: true
@@ -13,4 +13,5 @@ abstract: "This article explores how China’s polar activities are driven not j
 links:
 - name: URL
   url: https://journals.sagepub.com/doi/10.1177/13691481251378895
+description: "This article explores how China’s polar activities are driven not just by rationalistic interests but also by China’s great power identity and a desire…"
 ---

@@ -44,3 +44,25 @@
   to = "/uploads/urbanaeva-lamazhapov-2017-buddhism-unity.pdf"
   status = 301
   force = true
+
+# Removed template pages and renamed talk
+[[redirects]]
+  from = "/event/example/"
+  to = "/event/cnarc-2023/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/project/*"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/projects/"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/teaching/"
+  to = "/"
+  status = 301

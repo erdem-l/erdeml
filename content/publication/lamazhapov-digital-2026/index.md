@@ -1,7 +1,7 @@
 ---
 title: 'Digital Frontiers: The Polar Regions and Popular Geopolitics in Video Games'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2026-02-26'
 publishDate: '2026-02-26'
 publication_types:
@@ -12,4 +12,5 @@ abstract: "Video games have emerged as a significant domain of popular culture, 
 links:
 - name: URL
   url: https://doi.org/10.17645/oas.11462
+description: "Video games have emerged as a significant domain of popular culture, offering an excellent arena for analyzing popular geopolitics. Meanwhile, the polar…"
 ---

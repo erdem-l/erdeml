@@ -1,7 +1,7 @@
 ---
 title: 'Is the Polar Silk Road still in the freezer?'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2026-06-17'
 publishDate: '2026-06-17'
 publication_types:
@@ -11,4 +11,5 @@ abstract: "Discusses whether China’s Polar Silk Road has stalled and argues th
 links:
 - name: URL
   url: https://centrumbalticum.org/erdem-lamazhapov-is-the-polar-silk-road-still-in-the-freezer
+description: "Discusses whether China’s Polar Silk Road has stalled and argues that, while the initiative has lost momentum in recent years, Beijing continues to view…"
 ---

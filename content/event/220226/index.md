@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Гренландия, НАТО и ядерный щит: большая игра на Севере – Media interview (YouTube), 2026-02-22. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

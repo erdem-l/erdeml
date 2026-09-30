@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Зачем Китаю российская Арктика? – Media interview, 2026-08-14. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

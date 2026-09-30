@@ -12,6 +12,7 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Arctic Circle Assembly 2026, Reykjavík. Organized by: Istituto Affari Internazionali (IAI), Italy; Fridtjof Nansen Institute, Norway."
 ---
 Organized by: Istituto Affari Internazionali (IAI), Italy; Fridtjof Nansen Institute, Norway. Erdem Lamazhapov's role: moderator.
 

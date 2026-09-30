@@ -26,8 +26,6 @@ role: PhD Research Fellow
 organizations:
   - name: Fridtjof Nansen Institute
     url: https://fni.no/
-  - name: North American and Arctic Defence and Security Network (NAADSN)
-    url: https://naadsn.ca/person/erdem-lamazhapov/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -84,6 +82,14 @@ work:
       Responsibilities include:
       - Writing PhD
       Supervised by Prof Olav Schram Stokke and Prof Iver B. Neumann
+  - position: Research Fellow
+    company_name: North American and Arctic Defence and Security Network (NAADSN)
+    company_url: 'https://naadsn.ca/person/erdem-lamazhapov/'
+    company_logo: ''
+    date_start: "2025-01-01"
+    date_end: ''
+    summary: |
+      Network member. Research on the origins of China's Arctic policy and the relationship between China and Russia in the Arctic.
   - position: Research Assistant
     company_name: Institute for Mongolian, Buddhist and Tibetan Studies
     company_url: 'https://imbt.ru/'

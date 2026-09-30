@@ -20,12 +20,12 @@ Read the full article: [China, Russia, and the U.S. in the Bering Sea: Military 
 
 ## What are Russia and China signalling in the Bering Sea?
 
-Since 2022, Russia and China have sharply increased joint naval, air, and coast guard exercises in the North Pacific.
+![Since 2022, Russia and China have sharply increased joint naval, air, and coast guard exercises in the North Pacific.](slide-2.jpg)
 
-**Exercises are signalling tools.** They serve symbolic as well as material purposes. They convey intentions, commitments, or warnings to influence the behaviour of other states or actors. They are public, intentional, and sometimes costly.
+![Exercises are signalling tools: they serve symbolic as well as material purposes, convey intentions, commitments or warnings, and are public, intentional, and sometimes costly.](slide-3.jpg)
 
-**Russia signals** its great-power status, willingness to counter U.S./NATO operations, and its desire to maintain relevance in the Arctic after its isolation post-Ukraine.
+![Russia signals its great-power status, willingness to counter U.S./NATO operations, and desire to maintain relevance in the Arctic after its isolation post-Ukraine.](slide-4.jpg)
 
-**China signals** its status as a maritime great power (海洋强国) with far-sea operational capabilities, pushback against U.S. "island chain" containment, and its desire to avoid being excluded from the Arctic.
+![China signals its status as a maritime great power with far-sea operational capabilities, pushback against U.S. island chain containment, and desire to avoid being excluded from the Arctic.](slide-5.jpg)
 
-Lamazhapov, E. & Østhagen, A. (2025). "China, Russia, and the U.S. in the Bering Sea." *Arctic Yearbook 2025*.
+![Read the full article: Lamazhapov, E. & Østhagen, A. (2025). China, Russia, and the U.S. in the Bering Sea. Arctic Yearbook 2025.](slide-6.jpg)

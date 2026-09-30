@@ -86,7 +86,7 @@ work:
     company_name: North American and Arctic Defence and Security Network (NAADSN)
     company_url: 'https://naadsn.ca/person/erdem-lamazhapov/'
     company_logo: ''
-    date_start: "2025-01-01"
+    date_start: "2025-10-01"
     date_end: ''
     summary: |
       Network member. Research on the origins of China's Arctic policy and the relationship between China and Russia in the Arctic.

@@ -5,6 +5,7 @@ authors:
 - Erdem Lamazhapov
 date: '2026-10-05'
 publishDate: '2026-10-05'
+featured: true
 publication_types:
 - book
 publication: '*Humanist Forlag*'

@@ -1,11 +1,14 @@
 ---
 title: "Kampen om Grønland er ikke over"
-summary: Kronikk i Morgenbladet
+summary: Den handler ikke lenger primært om hvem som skal «eie» øya, men i hvilken grad grønlenderne fremover vil ha sitt eget utenrikspolitiske handlingsrom. Kronikk i Morgenbladet.
 date: 2026-09-25
 authors:
   - admin
   - Serafima Andreeva
 tags:
   - Kronikk
+  - Grønland
+image:
+  caption: 'Morgenbladet nr. 38, 25. september–1. oktober 2026 (trykt tittel: «Kampen om Grønland fortsetter»)'
 ---
-Kronikk i Morgenbladet: [Kampen om Grønland er ikke over](https://hdl.handle.net/11250/5576471)
+Kronikk i [Morgenbladet](https://www.morgenbladet.no/ideer/kampen-om-gronland-er-ikke-over/10533879)

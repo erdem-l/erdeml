@@ -1,7 +1,7 @@
 ---
 title: 'Russia’s Geopolitical Position in the Arctic: What’s New?'
 authors:
-- Erdem Lamazhapov
+- admin
 - Arild Moe
 date: '2024-11-01'
 publishDate: '2025-05-14'

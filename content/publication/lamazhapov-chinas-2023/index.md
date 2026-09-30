@@ -1,7 +1,7 @@
 ---
 title: 'China’s Polar Silk Road: Long Game or Failed Strategy'
 authors:
-- Erdem Lamazhapov
+- admin
 - Iselin Stensdal
 - Gørild Heggelund
 date: '2023-11-01'

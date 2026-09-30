@@ -2,7 +2,7 @@
 title: Russia’s expanding adaptation agenda and its limitations
 authors:
 - Arild Moe
-- Erdem Lamazhapov
+- admin
 - Oleg Anisimov
 date: '2023-02-01'
 publishDate: '2024-10-08T19:32:43.134365Z'

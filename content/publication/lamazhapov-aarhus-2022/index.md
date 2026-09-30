@@ -1,7 +1,7 @@
 ---
 title: 'Environmental justice for the poor? The case of the Aarhus Convention in the post-Soviet region'
 authors:
-- Erdem Lamazhapov
+- admin
 - Pål Wilter Skedsmo
 date: '2022-01-01'
 publishDate: '2022-01-01'

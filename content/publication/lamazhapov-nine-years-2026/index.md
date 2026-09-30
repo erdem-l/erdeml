@@ -1,7 +1,7 @@
 ---
 title: 'The Polar Silk Road: nine years on and still not a master plan for the Arctic'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2026-09-03'
 publishDate: '2026-09-03'
 publication_types:

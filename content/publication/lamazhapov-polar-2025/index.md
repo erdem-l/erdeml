@@ -1,7 +1,7 @@
 ---
 title: 'Polar Contradictions: China’s Dialectical Thinking About the Arctic'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2025-05-01'
 publishDate: '2025-05-14'
 featured: true

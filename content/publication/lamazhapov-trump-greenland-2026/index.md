@@ -1,7 +1,7 @@
 ---
 title: 'Trump’s Vision for Greenland and the Emerging World Order'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2026-02-17'
 publishDate: '2026-02-17'
 publication_types:

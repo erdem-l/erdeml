@@ -1,7 +1,7 @@
 ---
 title: 'Digital Frontiers: The Polar Regions and Popular Geopolitics in Video Games'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2026-02-26'
 publishDate: '2026-02-26'
 publication_types:

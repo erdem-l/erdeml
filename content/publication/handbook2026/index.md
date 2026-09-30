@@ -1,7 +1,7 @@
 ---
 title: 'Friends in need? Russo-Chinese cooperation in the Arctic'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2026-01-01'
 publishDate: '2026-01-01T19:32:43.127905Z'
 featured: false

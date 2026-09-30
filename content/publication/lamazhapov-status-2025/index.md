@@ -1,7 +1,7 @@
 ---
 title: 'Polar regions for global status: China’s great power discourse and status-seeking practice in the Arctic and Antarctic'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2025-10-15'
 publishDate: '2025-10-15T19:32:43.134365Z'
 featured: true

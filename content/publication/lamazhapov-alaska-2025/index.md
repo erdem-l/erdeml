@@ -1,7 +1,7 @@
 ---
 title: 'Alaska, not Greenland, should worry the United States in the Arctic'
 authors:
-- Erdem Lamazhapov
+- admin
 - Andreas Østhagen
 date: '2025-10-28'
 publishDate: '2025-10-28'

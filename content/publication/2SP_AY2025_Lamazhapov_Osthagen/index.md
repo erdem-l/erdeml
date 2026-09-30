@@ -1,7 +1,7 @@
 ---
 title: 'China, Russia and the U.S. in the Bering Sea: Military Exercises and Great Power Politics'
 authors:
-- Erdem Lamazhapov
+- admin
 - Andreas Østhagen
 date: '2025-11-27'
 publishDate: '2025-11-27T19:32:43.140630Z'

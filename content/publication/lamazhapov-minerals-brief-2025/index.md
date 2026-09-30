@@ -1,9 +1,9 @@
 ---
 title: 'China’s dominance in the critical minerals supply chain: Consequences and challenges'
 authors:
-- Erdem Lamazhapov
+- admin
 - Patrik Andersson
-- Gørild M. Heggelund
+- Gørild Heggelund
 - Xinyuan Zhang
 - Iselin Stensdal
 date: '2025-01-01'

@@ -3,7 +3,7 @@ title: 'Dig, Baby, Dig? China''s Mineral Dominance and Ripple Effects into the A
 authors:
 - Gørild Heggelund
 - Iselin Stensdal
-- Erdem Lamazhapov
+- admin
 date: '2026-01-06'
 publishDate: '2026-01-06'
 publication_types:

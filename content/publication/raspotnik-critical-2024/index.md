@@ -2,7 +2,7 @@
 title: 'Critical Raw Materials: Interests of China and the European Union in the Arctic'
 authors:
 - Andreas Raspotnik
-- Erdem Lamazhapov
+- admin
 - Iselin Stensdal
 - Gørild Heggelund
 date: '2024-11-01'

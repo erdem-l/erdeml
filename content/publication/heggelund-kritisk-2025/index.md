@@ -3,7 +3,7 @@ title: 'Kritisk kamp om mineralene'
 authors:
 - Gørild Heggelund
 - Iselin Stensdal
-- Erdem Lamazhapov
+- admin
 date: '2025-01-01'
 publishDate: '2025-01-01'
 publication_types:

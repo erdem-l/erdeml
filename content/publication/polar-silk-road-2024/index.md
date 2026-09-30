@@ -1,7 +1,7 @@
 ---
 title: 'Chinese Arctic Shipping Under the Polar Silk Road: Reality or Vision?'
 authors:
-- Erdem Lamazhapov
+- admin
 - Gørild Heggelund
 - Iselin Stensdal
 date: '2024-08-22'

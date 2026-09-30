@@ -2,7 +2,7 @@
 title: 'Kampen om Grønland'
 authors:
 - Serafima Andreeva
-- Erdem Lamazhapov
+- admin
 date: '2026-10-05'
 publishDate: '2026-09-30'
 featured: true

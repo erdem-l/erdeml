@@ -1,7 +1,7 @@
 ---
 title: 'Is the Polar Silk Road still in the freezer?'
 authors:
-- Erdem Lamazhapov
+- admin
 date: '2026-06-17'
 publishDate: '2026-06-17'
 publication_types:

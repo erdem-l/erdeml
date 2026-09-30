@@ -82,6 +82,14 @@ work:
       Responsibilities include:
       - Writing PhD
       Supervised by Prof Olav Schram Stokke and Prof Iver B. Neumann
+  - position: Research Fellow
+    company_name: North American and Arctic Defence and Security Network (NAADSN)
+    company_url: 'https://naadsn.ca/person/erdem-lamazhapov/'
+    company_logo: ''
+    date_start: "2025-10-01"
+    date_end: ''
+    summary: |
+      Network member. Research on the origins of China's Arctic policy and the relationship between China and Russia in the Arctic.
   - position: Research Assistant
     company_name: Institute for Mongolian, Buddhist and Tibetan Studies
     company_url: 'https://imbt.ru/'
@@ -175,4 +183,4 @@ awards:
 
 ## About Me
 
-Hi, I am a PhD Research Fellow at the Fridtjof Nansen Institute and the University of Oslo. I have a background in international relations and my PhD is on China's Arctic Policy. My main research interest is Chinese and Russian foreign policy and Arctic geopolitics. My other research interests are Sino-Russian relations, Russia's environmental politics, and the Korean penninsula.
+Hi, I am a PhD Research Fellow at the Fridtjof Nansen Institute and the University of Oslo, and a Research Fellow with the North American and Arctic Defence and Security Network (NAADSN). I have a background in international relations and my PhD is on China's Arctic Policy. My main research interest is Chinese and Russian foreign policy and Arctic geopolitics. My other research interests are Sino-Russian relations, Russia's environmental politics, and the Korean penninsula.

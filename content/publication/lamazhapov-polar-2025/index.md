@@ -12,6 +12,6 @@ doi: 10.1080/14650045.2024.2408601
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/14650045.2024.2408601
-url_pdf: uploads/Accepted Manuscript Polar Contradictions China’s Dialectical Thinking About the Arctic.pdf
+url_pdf: uploads/lamazhapov-polar-contradictions-accepted-manuscript.pdf
 
 ---

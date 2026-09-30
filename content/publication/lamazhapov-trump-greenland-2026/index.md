@@ -7,7 +7,7 @@ publishDate: '2026-02-17'
 publication_types:
 - article
 publication: '*E-International Relations*'
-summary: "Trump’s bid for Greenland (Kalaallit Nunaat) is about reasserting US great-power identity and building a sphere of influence in an emerging post-rules-based order, argues Erdem Lamazhapov (E-International Relations, 2026)."
+summary: "Why Trump wants Greenland: reasserting US great-power identity and building a sphere of influence in an emerging post-rules-based order. By Erdem Lamazhapov."
 tags:
 - Greenland
 - Kalaallit Nunaat

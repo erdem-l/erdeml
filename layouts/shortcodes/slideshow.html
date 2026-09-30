@@ -1,0 +1,51 @@
+{{- /* Accessible, JS-optional slideshow. Reads slides from page front matter:
+slideshow:
+  - src: slide-2.jpg      # image in the page bundle
+    alt: Alt text         # also shown as visible caption (crawlable)
+*/ -}}
+{{- $page := .Page -}}
+{{- $slides := $page.Params.slideshow -}}
+{{- if $slides -}}
+<section class="slideshow" aria-roledescription="carousel" aria-label="{{ $page.Title }}">
+  <ul class="slideshow-track" tabindex="0">
+    {{- range $i, $s := $slides }}
+    {{- $img := $page.Resources.GetMatch $s.src }}
+    <li class="slideshow-slide" id="slide-{{ add $i 1 }}" aria-roledescription="slide" aria-label="{{ add $i 1 }} of {{ len $slides }}">
+      <figure>
+        {{- if $img }}
+        <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $s.alt }}" {{ if gt $i 0 }}loading="lazy" {{ end }}decoding="async">
+        {{- end }}
+        <figcaption>{{ $s.alt }}</figcaption>
+      </figure>
+    </li>
+    {{- end }}
+  </ul>
+  <nav class="slideshow-nav" aria-label="Slide navigation">
+    <button type="button" class="slideshow-prev" aria-label="Previous slide">&larr; Previous</button>
+    <button type="button" class="slideshow-next" aria-label="Next slide">Next &rarr;</button>
+  </nav>
+</section>
+<style>
+.slideshow{margin:2rem 0}
+.slideshow-track{display:flex;gap:1rem;overflow-x:auto;scroll-snap-type:x mandatory;list-style:none;margin:0;padding:0 0 .5rem}
+.slideshow-slide{flex:0 0 min(100%,420px);scroll-snap-align:center;margin:0;padding:0}
+.slideshow-slide::marker{content:""}
+.slideshow-slide figure{margin:0}
+.slideshow-slide img{width:100%;height:auto;border-radius:.5rem;display:block;margin:0}
+.slideshow-slide figcaption{font-size:.9rem;margin-top:.5rem;opacity:.85}
+.slideshow-nav{display:none;gap:.5rem;margin-top:.75rem}
+.slideshow-nav button{padding:.4rem .9rem;border:1px solid currentColor;border-radius:.375rem;background:transparent;color:inherit;cursor:pointer}
+.slideshow.js .slideshow-nav{display:flex}
+</style>
+<script>
+(function(){
+  var s=document.currentScript.previousElementSibling.previousElementSibling;
+  if(!s||!s.classList.contains('slideshow'))return;
+  s.classList.add('js');
+  var t=s.querySelector('.slideshow-track');
+  function step(d){var w=t.querySelector('.slideshow-slide').getBoundingClientRect().width+16;t.scrollBy({left:d*w,behavior:'smooth'});}
+  s.querySelector('.slideshow-prev').addEventListener('click',function(){step(-1)});
+  s.querySelector('.slideshow-next').addEventListener('click',function(){step(1)});
+})();
+</script>
+{{- end -}}

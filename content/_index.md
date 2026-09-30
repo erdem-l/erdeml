@@ -2,6 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: "Erdem Lamazhapov"
 date: 2022-10-24
+description: "Erdem Lamazhapov, PhD Research Fellow at the Fridtjof Nansen Institute and University of Oslo. Research on China's Arctic policy, Sino-Russian relations and Arctic geopolitics: publications, talks and media."
 type: landing
 
 design:

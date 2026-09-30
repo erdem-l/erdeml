@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+url_pdf: lexpress-detroit-de-bering.pdf
 ---

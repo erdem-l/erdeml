@@ -1,7 +1,7 @@
 ---
 title: "漫谈北极: A talk about the Arctic"
 event: "漫谈北极"
-event_url:
+event_url: https://hdl.handle.net/11250/3489721
 
 location: 韬奋西文书局 
 address:
@@ -11,7 +11,7 @@ address:
   postcode: '200041'
   country: China
 
-summary: 
+summary: "Book cafe salon series talk on the Arctic, organized by Minerva – BuZoo Forum (密涅瓦人文思想·布足沙龙)."
 abstract: ''
 
 # Talk start and end times.

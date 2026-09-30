@@ -8,7 +8,7 @@ featured: true
 publication_types:
 - article-journal
 publication: '*The British Journal of Politics and International Relations*'
-doi: 110.1177/13691481251378895
+doi: 10.1177/13691481251378895
 links:
 - name: URL
   url: https://journals.sagepub.com/doi/10.1177/13691481251378895

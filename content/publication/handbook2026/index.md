@@ -8,7 +8,7 @@ featured: false
 publication_types:
 - chapter
 publication: '*Handbook of the Politics of the Arctic*'
-doi: 
+doi: 10.4337/9781035333714.00034
 links:
 - name: URL
   url: https://www.e-elgar.com/shop/gbp/handbook-of-the-politics-of-the-arctic-9781035333707.html

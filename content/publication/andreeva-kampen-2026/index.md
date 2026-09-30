@@ -4,7 +4,7 @@ authors:
 - Serafima Andreeva
 - Erdem Lamazhapov
 date: '2026-10-05'
-publishDate: '2026-10-05'
+publishDate: '2026-09-30'
 featured: true
 publication_types:
 - book

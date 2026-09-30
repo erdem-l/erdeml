@@ -1,7 +1,7 @@
 ---
-title: Talk at the 8th CNARC Symposium
+title: "Environmental Cooperation between Russia and China in the Arctic"
 
-event: 8th CNARC Symposium
+event: "8th China-Nordic Arctic Cooperation Symposium: Sustainable Development of the Arctic"
 event_url: https://www.cnarc.info/news/the-8th-cnarc-symposium-held-in-guangzhou-china
 
 location: South China Business College, Guangdong University of Foreign Studies (SCBC)
@@ -12,13 +12,13 @@ address:
   postcode: '510540'
   country: China
 
-summary: Potential for Environmental Cooperation in the Arctic
+summary: "Presentation at the 8th CNARC Symposium, organized by the China-Nordic Arctic Research Center (Guangzhou, December 2023)."
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-12-04T13:00:00Z'
-#date_end: '2030-06-01T15:00:00Z'
+date_end: '2023-12-06T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

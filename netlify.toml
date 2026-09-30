@@ -19,3 +19,28 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+# Redirects for renamed upload files
+[[redirects]]
+  from = "/uploads/Accepted Manuscript Polar Contradictions China’s Dialectical Thinking About the Arctic.pdf"
+  to = "/uploads/lamazhapov-polar-contradictions-accepted-manuscript.pdf"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/uploads/Accepted%20Manuscript%20Polar%20Contradictions%20China%E2%80%99s%20Dialectical%20Thinking%20About%20the%20Arctic.pdf"
+  to = "/uploads/lamazhapov-polar-contradictions-accepted-manuscript.pdf"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/uploads/КОНЦЕПТУАЛИЗАЦИЯ ЕДИНСТВА.pdf"
+  to = "/uploads/urbanaeva-lamazhapov-2017-buddhism-unity.pdf"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/uploads/%D0%9A%D0%9E%D0%9D%D0%A6%D0%95%D0%9F%D0%A2%D0%A3%D0%90%D0%9B%D0%98%D0%97%D0%90%D0%A6%D0%98%D0%AF%20%D0%95%D0%94%D0%98%D0%9D%D0%A1%D0%A2%D0%92%D0%90.pdf"
+  to = "/uploads/urbanaeva-lamazhapov-2017-buddhism-unity.pdf"
+  status = 301
+  force = true

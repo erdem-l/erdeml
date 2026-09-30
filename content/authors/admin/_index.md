@@ -26,6 +26,8 @@ role: PhD Research Fellow
 organizations:
   - name: Fridtjof Nansen Institute
     url: https://fni.no/
+  - name: North American and Arctic Defence and Security Network (NAADSN)
+    url: https://naadsn.ca/person/erdem-lamazhapov/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -175,4 +177,4 @@ awards:
 
 ## About Me
 
-Hi, I am a PhD Research Fellow at the Fridtjof Nansen Institute and the University of Oslo. I have a background in international relations and my PhD is on China's Arctic Policy. My main research interest is Chinese and Russian foreign policy and Arctic geopolitics. My other research interests are Sino-Russian relations, Russia's environmental politics, and the Korean penninsula.
+Hi, I am a PhD Research Fellow at the Fridtjof Nansen Institute and the University of Oslo, and a Research Fellow with the North American and Arctic Defence and Security Network (NAADSN). I have a background in international relations and my PhD is on China's Arctic Policy. My main research interest is Chinese and Russian foreign policy and Arctic geopolitics. My other research interests are Sino-Russian relations, Russia's environmental politics, and the Korean penninsula.

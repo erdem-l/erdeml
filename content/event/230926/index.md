@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Geopolitikk i Arktis – Seniorklubben Dep. av 1992, 2026-09-23. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

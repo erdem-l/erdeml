@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Trump faces another shipping crisis – this time on his own doorstep – The Telegraph, 2026-04-10. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

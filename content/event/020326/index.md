@@ -9,4 +9,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Provokerende suverænitet – Media interview, 2026-03-02. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

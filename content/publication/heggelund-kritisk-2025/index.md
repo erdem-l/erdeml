@@ -11,4 +11,5 @@ publication_types:
 links:
 - name: URL
   url: https://hdl.handle.net/11250/3219517
+description: "Kritisk kamp om mineralene. Gørild Heggelund, Iselin Stensdal, Erdem Lamazhapov (2025)."
 ---

@@ -11,4 +11,5 @@ abstract: "Fears that the Polar Silk Road is an instrument for gaining control i
 links:
 - name: URL
   url: https://hdl.handle.net/11250/5564727
+description: "Fears that the Polar Silk Road is an instrument for gaining control in the Arctic or over Greenland mistake what is essentially a slogan for a coherent…"
 ---

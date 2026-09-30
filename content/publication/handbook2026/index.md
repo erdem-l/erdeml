@@ -13,4 +13,5 @@ abstract: "This chapter examines the evolving dynamics of Russo-Chinese cooperat
 links:
 - name: URL
   url: https://www.e-elgar.com/shop/gbp/handbook-of-the-politics-of-the-arctic-9781035333707.html
+description: "This chapter examines the evolving dynamics of Russo-Chinese cooperation in the Arctic, tracing its development from initial mutual skepticism to…"
 ---

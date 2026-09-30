@@ -11,4 +11,5 @@ publication: '*The Arctic Institute*'
 links:
 - name: URL
   url: https://www.thearcticinstitute.org/alaska-greenland-should-worry-the-united-states-arctic/
+description: "Alaska, not Greenland, should worry the United States in the Arctic. Erdem Lamazhapov, Andreas Østhagen The Arctic Institute (2025)."
 ---

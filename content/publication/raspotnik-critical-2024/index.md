@@ -15,4 +15,5 @@ url_pdf: uploads/raspotnik-critical-raw-materials-arctic-accepted-manuscript.pdf
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/09700161.2025.2459573
+description: "Critical Raw Materials: Interests of China and the European Union in the Arctic. Andreas Raspotnik, Erdem Lamazhapov, Iselin Stensdal et al. Strategic…"
 ---

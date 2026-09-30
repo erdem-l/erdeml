@@ -59,4 +59,5 @@ image:
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
+description: "Book cafe salon series talk on the Arctic, organized by Minerva – BuZoo Forum (密涅瓦人文思想·布足沙龙)."
 ---

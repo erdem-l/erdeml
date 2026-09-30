@@ -12,4 +12,5 @@ abstract: "This policy brief discusses how environmental justice may contribute 
 links:
 - name: URL
   url: https://hdl.handle.net/11250/3378214
+description: "This policy brief discusses how environmental justice may contribute to achieving the United Nations (UN) 2030 Agenda for Sustainable Development. Among…"
 ---

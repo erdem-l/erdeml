@@ -14,4 +14,5 @@ abstract: "This paper examines the recent transformation of Russia’s geopoliti
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/09700161.2025.2459571
+description: "This paper examines the recent transformation of Russia’s geopolitical position in the Arctic in light of its 2022 invasion of Ukraine and the subsequent…"
 ---

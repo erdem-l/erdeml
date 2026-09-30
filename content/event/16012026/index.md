@@ -39,5 +39,6 @@ featured: false
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
+description: "Counting the Cost - Al Jazeera, 2026-01-16. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---
 {{< youtube id=68u8KCe4o34 start=1407 >}}

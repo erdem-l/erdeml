@@ -13,4 +13,5 @@ abstract: "This article discusses the increase of military exercise activity in,
 links:
 - name: URL
   url: https://arcticyearbook.com/images/yearbook/2025/Scholarly_Papers/2SP_AY2025_Lamazhapov_Osthagen.pdf
+description: "This article discusses the increase of military exercise activity in, and related statements and attention given to, the Bering Sea and Strait…"
 ---

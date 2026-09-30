@@ -19,4 +19,5 @@ url_pdf: uploads/lamazhapov-trumps-vision-for-greenland-2026.pdf
 links:
 - name: URL
   url: https://www.e-ir.org/p/trumps-vision-for-greenland-and-the
+description: "Argues that President Trump’s renewed bid to acquire Kalaallit Nunaat (Greenland) cannot be fully explained by narrow security or resource interests, but…"
 ---

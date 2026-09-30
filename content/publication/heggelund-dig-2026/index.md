@@ -13,4 +13,5 @@ abstract: "The article links renewed US interest in Greenland to China’s globa
 links:
 - name: URL
   url: https://www.thearcticinstitute.org/dig-baby-dig-chinas-mineral-dominance-ripple-effects-arctic/
+description: "The article links renewed US interest in Greenland to China’s global dominance in mineral extraction and processing. The authors argue that Greenland’s…"
 ---

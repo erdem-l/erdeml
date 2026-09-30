@@ -10,4 +10,5 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Are Russian plans for development of NSR realistic, and do they depend on China? – 11th China-Nordic Arctic Cooperation Symposium: Human Footprints in…"
 ---

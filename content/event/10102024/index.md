@@ -59,4 +59,5 @@ image:
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
+description: "The New Superpower: India's Role in the Arctic, 2024-10-10. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---

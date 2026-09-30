@@ -11,4 +11,5 @@ abstract: "Discusses whether China’s Polar Silk Road has stalled and argues th
 links:
 - name: URL
   url: https://centrumbalticum.org/erdem-lamazhapov-is-the-polar-silk-road-still-in-the-freezer
+description: "Discusses whether China’s Polar Silk Road has stalled and argues that, while the initiative has lost momentum in recent years, Beijing continues to view…"
 ---

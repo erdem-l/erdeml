@@ -61,6 +61,7 @@ featured: false
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
+description: "2024青年汉学家研修计划自我介绍 – 我的中国故事, 2024-10-09. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---
 
 {{< youtube _BbAEjXHc0g >}}

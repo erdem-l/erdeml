@@ -12,6 +12,7 @@ authors:
   - admin
 tags: []
 featured: false
+description: "Arctic Circle Assembly 2026, Reykjavík. Organized by: Thematic Network on Geopolitics & Security, UArctic. Erdem Lamazhapov presents: Russo-Chinese…"
 ---
 Organized by: Thematic Network on Geopolitics & Security, UArctic. Erdem Lamazhapov presents: Russo-Chinese Cooperation and Shifting Security Dynamics in the High North. Erdem Lamazhapov's role: speaker.
 

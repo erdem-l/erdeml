@@ -21,4 +21,5 @@ links:
 - name: URL
   url: https://elibrary.ru/item.asp?id=30382447
 url_pdf: uploads/urbanaeva-lamazhapov-2017-buddhism-unity.pdf
+description: "The article sets the priority of a philosophical and theological approach"
 ---

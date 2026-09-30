@@ -60,4 +60,5 @@ image:
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
+description: "Presentation at the 8th CNARC Symposium, organized by the China-Nordic Arctic Research Center (Guangzhou, December 2023)."
 ---

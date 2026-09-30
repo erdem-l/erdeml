@@ -13,4 +13,5 @@ abstract: "This article explores how China’s polar activities are driven not j
 links:
 - name: URL
   url: https://journals.sagepub.com/doi/10.1177/13691481251378895
+description: "This article explores how China’s polar activities are driven not just by rationalistic interests but also by China’s great power identity and a desire…"
 ---

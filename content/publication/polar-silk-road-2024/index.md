@@ -14,4 +14,5 @@ doi: 10.1007/978-3-031-63087-3_8
 links:
 - name: URL
   url: https://link.springer.com/10.1007/978-3-031-63087-3_8
+description: "Chinese Arctic Shipping Under the Polar Silk Road: Reality or Vision?. Erdem Lamazhapov, Gørild Heggelund, Iselin Stensdal China-Russia Relations in the…"
 ---

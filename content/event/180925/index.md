@@ -59,5 +59,6 @@ image:
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
+description: "Arctic Security Conference 2025: Managing Polarization and Fragmentation, 2025-09-18. Erdem Lamazhapov, Fridtjof Nansen Institute."
 ---
 {{< youtube 534XYodEn4A >}}

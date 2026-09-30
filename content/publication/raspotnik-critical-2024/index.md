@@ -11,6 +11,7 @@ publication_types:
 - article-journal
 publication: '*Strategic Analysis*'
 doi: 10.1080/09700161.2025.2459573
+url_pdf: uploads/raspotnik-critical-raw-materials-arctic-accepted-manuscript.pdf
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/09700161.2025.2459573

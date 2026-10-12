@@ -11,4 +11,7 @@ authors:
   - admin
 tags: []
 featured: false
+image:
+  caption: 'Erdem Lamazhapov interviewed at the Arctic Circle Assembly 2026. Image via Bastille Post.'
+  alt_text: 'Erdem Lamazhapov in a grey suit speaking in an interview in the Harpa concert hall, Reykjavík'
 ---

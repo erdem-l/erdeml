@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="mx-auto flex max-w-screen-xl">
+  <article class="w-full break-words flex min-w-0 justify-center pb-8">
+    <main class="ar-article w-full min-w-0 max-w-3xl px-6 pt-4 md:px-12" lang="ar" dir="rtl">
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">{{ .Title }}</h1>
+      {{ with .Params.byline }}
+      <p class="mt-4 mb-10 text-sm text-gray-500 dark:text-gray-300">{{ . | safeHTML }}</p>
+      {{ end }}
+      <div class="prose prose-slate lg:prose-xl dark:prose-invert max-w-none">
+        {{ .Content }}
+      </div>
+    </main>
+  </article>
+</div>
+{{ end }}

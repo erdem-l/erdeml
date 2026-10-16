@@ -19,6 +19,8 @@ Interviewed live on Al Jazeera 2 about Trump's claim that massive oil and gas ex
 
 Live TV interview in the evening news bulletin (نشرة الأخبار), 16 October 2026, on Trump's claim that "massive" oil, gas and mineral exploration is about to begin in Greenland, and Denmark's and Greenland's rejection of it.
 
+Arabic-language summary with extended answers: [غرينلاند وألبرتا: ترامب والنفط والسيادة](/ar/aljazeera-greenland-alberta-trump-oil/) (Arabic).
+
 Related publication: [*Kampen om Grønland*](/publication/andreeva-kampen-2026/) (Humanist forlag, 2026).
 
 *Video coming.*

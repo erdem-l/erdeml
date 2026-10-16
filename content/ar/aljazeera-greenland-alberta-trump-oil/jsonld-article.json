@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "inLanguage": "ar",
+  "headline": "غرينلاند وألبرتا: ترامب والنفط والسيادة – ملخص مقابلتي على الجزيرة 2",
+  "datePublished": "2026-10-17",
+  "image": [
+    "https://erdem.no/ar/aljazeera-greenland-alberta-trump-oil/aljazeera2-2026-10-16-1-interview-with-anchor.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Erdem Lamazhapov",
+    "alternateName": "إردم لامازابوف",
+    "affiliation": [
+      {
+        "@type": "Organization",
+        "name": "Fridtjof Nansen Institute"
+      },
+      {
+        "@type": "Organization",
+        "name": "North American and Arctic Defence and Security Network (NAADSN)"
+      }
+    ]
+  },
+  "about": [
+    "Greenland",
+    "Alberta referendum",
+    "Arctic security",
+    "Donald Trump",
+    "Oil and gas exploration"
+  ]
+}

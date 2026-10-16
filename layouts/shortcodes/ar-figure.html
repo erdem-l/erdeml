@@ -1,0 +1,11 @@
+{{- /* Figure from the page bundle; renders nothing (with a warning) if the image has not been added yet. */ -}}
+{{- $src := .Get "src" -}}
+{{- $img := $.Page.Resources.GetMatch $src -}}
+{{- if $img -}}
+<figure>
+  <img src="{{ $img.RelPermalink }}" width="{{ .Get "w" }}" height="{{ .Get "h" }}" alt="{{ .Get "alt" }}"{{ if ne $src "aljazeera2-2026-10-16-1-interview-with-anchor.jpg" }} loading="lazy"{{ end }}>
+  <figcaption>{{ .Get "caption" | safeHTML }}</figcaption>
+</figure>
+{{- else -}}
+{{- warnf "ar-figure: image %q not found in the page bundle of %s" $src $.Page.File.Path -}}
+{{- end -}}

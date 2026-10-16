@@ -1,0 +1,8 @@
+/* Arabic article pages (type: ar-article) */
+.ar-article .qa { background: rgb(100 116 139 / .12); border-radius: .5rem; padding: .25rem 1rem; margin: 1rem 0; }
+.ar-article .qa h3 { margin-top: 1rem; }
+.ar-article .en { direction: ltr; unicode-bidi: isolate; }
+.ar-article figure { margin: 1.5rem 0; }
+.ar-article figure img { max-width: 100%; height: auto; border-radius: .375rem; }
+.ar-article figcaption { font-size: .9rem; opacity: .75; }
+.ar-article blockquote { border-inline-start: 4px solid currentColor; border-inline-end: 0; padding-inline: 1rem; font-style: normal; }

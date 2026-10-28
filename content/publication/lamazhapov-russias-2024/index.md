@@ -5,7 +5,7 @@ authors:
 - Arild Moe
 date: '2024-11-01'
 publishDate: '2025-05-14'
-featured: true
+featured: false
 publication_types:
 - article-journal
 publication: '*Strategic Analysis*'

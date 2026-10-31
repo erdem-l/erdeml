@@ -1,73 +1,23 @@
 ---
+title: '北極行動——破冰爭霸'
+title_en: 'Arctic Operation: The Icebreaker Contest'
 outlet: 'Phoenix TV (鳳凰衛視), 鳳凰聚焦'
 media_kind: 'TV'
 language: 'zh'
-title_en: 'Across the Arctic: Putin announces year-round navigation on the Northern Sea Route. What is the Northern Sea Route?'
-external_url: 'https://www.youtube.com/watch?v=J--7Fm-s-hk&t=1417s'
-date: '2023-10-25'
+external_url: 'https://www.fengshows.com/video/91778271-1117-46bd-9ba8-32bfdcee255c'
+date: '2023-10-24'
+publishDate: '2023-10-24T00:00:00Z'
 aliases:
   - /post/fenghuang2/
-title: 穿越北極！北方海路是什麼？
-
-#event_url: 
-
-
-#location: South China Business College, Guangdong University of Foreign Studies (SCBC)
-#address:
-#  street: 白云区良田中路181号
-#  city: Guangzhou
-#  region: Guangdong
-#  postcode: '510540'
-#  country: China
-
-#summary: Potential for Environmental Cooperation in the Arctic
-#abstract: ''
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-#date: '2023-12-04T13:00:00Z'
-#date_end: '2030-06-01T15:00:00Z'
-#all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2023-10-25T00:00:00Z'
-
 authors:
   - admin
-
 tags: []
-
-# Is this a featured talk? (true/false)
 featured: false
-
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
-
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-# url_code: 'https://github.com'
-#url_pdf: ''
-#url_slides: 'https://slideshare.net'
-#url_video: 'https://youtube.com'
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#  - example
+summary: "Phoenix TV Focus (鳳凰聚焦) episode from Phoenix TV's Arctic Operation (北極行動) series, filmed at key ports on the Northern Sea Route after Putin announced year-round navigation for ice-class cargo ships (in Chinese)."
+description: "Phoenix TV 鳳凰聚焦: 北極行動——破冰爭霸 (24 October 2023), on the Northern Sea Route and great-power competition in the Arctic, with Erdem Lamazhapov."
 ---
+2024年起，全球航運業可能發生顛覆性變化。俄羅斯總統普京已宣佈，北方海路將全年向破冰級貨船開放。鳳凰衛視發起“北極行動”特別策劃，親赴北極航道上的重要港口，在俄與北約最北端的交界，一窺全球地緣博弈的未來。
 
-{{< youtube id=J--7Fm-s-hk start=1417 >}}
+*From 2024, global shipping may change fundamentally: Putin has announced that the Northern Sea Route will be open year-round to ice-class cargo ships. Phoenix TV's "Arctic Operation" visits key ports on the route, at the northernmost border between Russia and NATO.*
+
+[Watch the full episode (25:43) on Fengshows](https://www.fengshows.com/video/91778271-1117-46bd-9ba8-32bfdcee255c).

@@ -2,7 +2,7 @@
 title: 'Digital Frontiers: The Polar Regions and Popular Geopolitics in Video Games'
 authors:
 - admin
-featured: true
+featured: false
 date: '2026-02-26'
 publishDate: '2026-02-26'
 publication_types:

@@ -12,6 +12,6 @@ publication: '*9DASHLINE*'
 abstract: "Fears that the Polar Silk Road is an instrument for gaining control in the Arctic or over Greenland mistake what is essentially a slogan for a coherent, centrally-directed strategy. Still, while the slogan is heard less frequently these days, it has not yet fallen into obscurity. Under the right conditions, China might find it useful to defrost the Polar Silk Road."
 links:
 - name: URL
-  url: https://hdl.handle.net/11250/5564727
+  url: https://www.9dashline.com/article/the-polar-silk-road-nine-years-on-and-still-not-a-master-plan-for-the-arctic
 description: "Fears that the Polar Silk Road is an instrument for gaining control in the Arctic or over Greenland mistake what is essentially a slogan for a coherent…"
 ---

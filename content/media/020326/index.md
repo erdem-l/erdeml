@@ -6,7 +6,7 @@ title_en: 'Provocative sovereignty'
 aliases:
   - /event/020326/
 title: "Provokerende suverænitet"
-event_url: "https://hdl.handle.net/11250/5484757"
+event_url: "https://www.foljeton.dk/post/provokerende-suveraenitet"
 date: '2026-03-02T09:00:00Z'
 all_day: true
 publishDate: '2026-03-02T09:00:00Z'

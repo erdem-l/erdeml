@@ -10,7 +10,7 @@
     <span class="el-venue">{{ $p.Params.outlet | default $p.Params.event }}</span>{{ with $kind }} <span class="el-meta">({{ delimit . ", " }})</span>{{ end }}:
     {{ partial "erdem/title" (dict "page" $p "href" ($ext | default $p.RelPermalink) "external" (ne $ext "")) }}
     {{- $more := slice -}}
-    {{- if and $ext (in $p.RawContent "{{<") }}{{ $more = $more | append (printf `<a href="%s">Watch here</a>` $p.RelPermalink) }}{{ end -}}
+    {{- if and $ext (in $p.RawContent "{{<") }}{{ $more = $more | append (printf `<a href="%s">Watch / listen here</a>` $p.RelPermalink) }}{{ end -}}
     {{- with $p.Resources.GetMatch "*.pdf" }}{{ $more = $more | append (printf `<a href="%s" target="_blank" rel="noopener">PDF</a>` .RelPermalink) }}{{ end -}}
     {{- with $p.Params.arabic_summary }}{{ $more = $more | append (printf `<a href="%s">Arabic summary</a>` (. | relURL)) }}{{ end -}}
     {{ with $more }}<span class="el-links">{{ delimit . " · " | safeHTML }}</span>{{ end }}

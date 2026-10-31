@@ -1,0 +1,13 @@
+{{- /* Plays a video file hosted elsewhere.
+     Usage: {{< remote-video src="https://…/file.mp4" poster="poster.jpg" caption="…" >}}
+     `poster` may be a file in the page bundle or a full URL. */ -}}
+{{- $src := .Get "src" -}}
+{{- $poster := .Get "poster" -}}
+{{- with $poster }}{{ with $.Page.Resources.GetMatch . }}{{ $poster = (.Resize "1280x webp").RelPermalink }}{{ end }}{{ end -}}
+<figure class="el-video">
+  <video controls preload="metadata" playsinline width="100%"{{ with $poster }} poster="{{ . }}"{{ end }}>
+    <source src="{{ $src }}" type="video/mp4">
+    Your browser cannot play this video. <a href="{{ $src }}">Download it</a> instead.
+  </video>
+  {{ with .Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+</figure>

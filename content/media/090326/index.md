@@ -6,7 +6,7 @@ title_en: 'The Gulf war and the LNG knot'
 aliases:
   - /event/090326/
 title: "La guerra nel Golfo e il nodo del GNL"
-event_url: "https://hdl.handle.net/11250/5484759"
+event_url: "https://www.osservatorioartico.it/guerra-golfo-gnl/"
 date: '2026-03-09T09:00:00Z'
 all_day: true
 publishDate: '2026-03-09T09:00:00Z'

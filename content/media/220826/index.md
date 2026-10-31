@@ -6,7 +6,7 @@ title_en: 'Bering Strait: the ''forgotten'' corridor that could become highly st
 aliases:
   - /event/220826/
 title: "Détroit de Béring : ce corridor « oublié » qui pourrait devenir hautement stratégique"
-event_url: "https://hdl.handle.net/11250/5561279"
+event_url: "https://www.lexpress.fr/monde/detroit-de-bering-ce-corridor-oublie-qui-pourrait-devenir-hautement-strategique-KK4K5A354ZHI3IZBSVWKUXQHFQ/"
 date: '2026-08-22T09:00:00Z'
 all_day: true
 publishDate: '2026-08-22T09:00:00Z'

@@ -1,7 +1,6 @@
 ---
 title: "漫谈北极: A talk about the Arctic"
 event: "漫谈北极"
-event_url: https://hdl.handle.net/11250/3489721
 
 location: 韬奋西文书局 
 address:

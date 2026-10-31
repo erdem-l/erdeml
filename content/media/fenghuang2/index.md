@@ -20,4 +20,4 @@ description: "Phoenix TV 鳳凰聚焦: 北極行動——破冰爭霸 (24 Octobe
 
 *From 2024, global shipping may change fundamentally: Putin has announced that the Northern Sea Route will be open year-round to ice-class cargo ships. Phoenix TV's "Arctic Operation" visits key ports on the route, at the northernmost border between Russia and NATO.*
 
-[Watch the full episode (25:43) on Fengshows](https://www.fengshows.com/video/91778271-1117-46bd-9ba8-32bfdcee255c).
+{{< remote-video src="https://q2.fengshows.com/2023/10/24/0bd06453-a2e6-4eae-82cd-c66509dbfa71_360.mp4" poster="poster.jpg" caption="Full episode (25:43), streamed from Phoenix TV's Fengshows." >}}

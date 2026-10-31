@@ -41,13 +41,15 @@
       "polygon",
       "script",
       "section",
+      "source",
       "span",
       "strong",
       "style",
       "svg",
       "time",
       "title",
-      "ul"
+      "ul",
+      "video"
     ],
     "classes": [
       "!mb-4",
@@ -167,6 +169,7 @@
       "el-toc",
       "el-trans",
       "el-venue",
+      "el-video",
       "en",
       "fa-2x",
       "fa-creative-commons",

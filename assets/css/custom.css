@@ -58,3 +58,8 @@
 .el-figure img { max-width: 100%; height: auto; border-radius: .375rem; }
 .el-figure figcaption { font-size: .85rem; opacity: .7; margin-top: .25rem; }
 .el-body { max-width: none; }
+
+/* Inline video player (remote-video shortcode) */
+.el-video { margin: 1.5rem 0; }
+.el-video video { width: 100%; height: auto; aspect-ratio: 16 / 9; background: #000; border-radius: .375rem; }
+.el-video figcaption { font-size: .85rem; opacity: .7; margin-top: .35rem; }

@@ -4,7 +4,8 @@ title_en: "China gets serious about a Silk Road through the Arctic"
 outlet: "De Standaard"
 media_kind: "Interview"
 language: "nl"
-# Exact publication date not on the clipping; published the week of Sea Legend's
+external_url: "https://www.standaard.be/buitenland/china-maakt-werk-van-zijderoute-door-het-noordpoolgebied/159833257.html"
+# Exact publication date not confirmed; published the week of Sea Legend's
 # first scheduled Ningbo–Felixstowe sailing (15 August 2026).
 date: '2026-08-14T09:00:00Z'
 publishDate: '2026-08-14T00:00:00Z'

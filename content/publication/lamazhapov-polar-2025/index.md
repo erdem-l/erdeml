@@ -4,7 +4,7 @@ authors:
 - admin
 date: '2025-05-01'
 publishDate: '2025-05-14'
-featured: false
+featured: true
 publication_types:
 - article-journal
 publication: '*Geopolitics*'

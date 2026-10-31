@@ -4,7 +4,7 @@ authors:
 - admin
 date: '2026-01-01'
 publishDate: '2026-01-01T19:32:43.127905Z'
-featured: false
+featured: true
 publication_types:
 - chapter
 publication: '*Handbook of the Politics of the Arctic*, eds. Geir Hønneland, Andreas Østhagen and Svein Vigeland Rottem. Edward Elgar, 2026, pp. 447–463'

@@ -1,7 +1,7 @@
 ---
 title: "Arctic Panel Discussion"
-event: "Arctic Panel Discussion – ULIP Lecture Theatre"
-location: "ULIP Lecture Theatre (University of London Institute in Paris)"
+event: "University of London Institute in Paris (ULIP)"
+location: "Paris"
 summary: "Arctic panel discussion with Eda Ayaydin and Gustaf Winstrand (Swedish embassy): Arctic cooperation, the role of the Nordics in the Arctic, security concerns and more."
 description: "Panel discussion on 20 October 2026, 17:00–18:00, at the ULIP Lecture Theatre, with Eda Ayaydin, Gustaf Winstrand (Swedish embassy) and Erdem Lamazhapov on Arctic cooperation, the Nordics in the Arctic and security concerns."
 date: '2026-10-20T15:00:00Z'

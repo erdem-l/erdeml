@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="el-page">
+  <header class="el-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="el-intro">{{ . }}</div>{{ end }}
+  </header>
+  {{ $pages := .Pages.ByDate.Reverse }}
+  {{ partial "erdem/year-toc" (dict "pages" $pages "prefix" "c") }}
+  {{ partial "erdem/by-year" (dict "pages" $pages "item" "erdem/commentary-item" "prefix" "c") }}
+</div>
+{{ end }}

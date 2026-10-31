@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{- $p := . -}}
+{{- $lang := partial "erdem/lang" .Params.language -}}
+{{- $ext := .Params.external_url | default .Params.event_url | default "" -}}
+<div class="el-page">
+  <p class="el-crumb"><a href="{{ (site.GetPage "/media").RelPermalink }}">Media</a></p>
+  <header class="el-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.title_en }}<p class="el-subtitle">{{ . }}</p>{{ end }}
+  </header>
+
+  <dl class="el-facts">
+    <dt>Outlet</dt><dd>{{ .Params.outlet | default .Params.event }}</dd>
+    {{ with .Params.media_kind }}<dt>Format</dt><dd>{{ . }}</dd>{{ end }}
+    <dt>Date</dt><dd><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time></dd>
+    {{ with $lang }}<dt>Language</dt><dd>{{ . }}</dd>{{ end }}
+    {{ with $ext }}<dt>Source</dt><dd><a href="{{ . }}" target="_blank" rel="noopener">{{ (urls.Parse .).Host | strings.TrimPrefix "www." }}</a></dd>{{ end }}
+    {{ with .Resources.GetMatch "*.pdf" }}<dt>PDF</dt><dd><a href="{{ .RelPermalink }}" target="_blank" rel="noopener">{{ .Name }}</a></dd>{{ end }}
+    {{ with .Params.arabic_summary }}<dt>Write-up</dt><dd><a href="{{ . | relURL }}">Arabic summary of the interview</a></dd>{{ end }}
+  </dl>
+
+  {{ with .Params.summary }}<p class="el-intro">{{ . | markdownify }}</p>{{ end }}
+
+  {{ $featured := partial "functions/get_featured_image.html" . }}
+  {{ with $featured }}
+    {{ $img := (.Fit "900x900").Process "webp" }}
+    <figure class="el-figure">
+      <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $p.Params.image.alt_text | default $p.Title }}" loading="lazy">
+      {{ with $p.Params.image.caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+    </figure>
+  {{ end }}
+
+  <div class="prose prose-slate dark:prose-invert el-body">{{ .Content }}</div>
+</div>
+{{ end }}

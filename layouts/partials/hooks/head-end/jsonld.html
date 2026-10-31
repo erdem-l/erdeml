@@ -35,9 +35,10 @@
   {{- with .Params.doi }}{{ $a = merge $a (dict "sameAs" (printf "https://doi.org/%s" .) "identifier" (dict "@type" "PropertyValue" "propertyID" "DOI" "value" .)) }}{{ end -}}
   {{- with .Params.publication }}{{ $a = merge $a (dict "isPartOf" (dict "@type" "Periodical" "name" (. | replaceRE `[*_]` ""))) }}{{ end -}}
   {{- $data = $a -}}
-{{- else if and (eq .Section "post") .IsPage -}}
+{{- else if and (in (slice "post" "commentary") .Section) .IsPage -}}
   {{- $desc := .Params.summary | default .Description | default "" -}}
-  {{- $a := dict "@context" "https://schema.org" "@type" "Article" "url" .Permalink "headline" .Title "author" $ref "publisher" $ref "mainEntityOfPage" .Permalink "inLanguage" (.Params.language | default "en") -}}
+  {{- $a := dict "@context" "https://schema.org" "@type" (cond (eq .Section "commentary") "OpinionNewsArticle" "Article") "url" .Permalink "headline" .Title "author" $ref "mainEntityOfPage" .Permalink "inLanguage" (.Params.language | default "en") -}}
+  {{- with .Params.publication }}{{ $a = merge $a (dict "publisher" (dict "@type" "Organization" "name" (. | replaceRE `[*_]` ""))) }}{{ else }}{{ $a = merge $a (dict "publisher" $ref) }}{{ end -}}
   {{- with $desc }}{{ $a = merge $a (dict "description" (. | plainify)) }}{{ end -}}
   {{- with .Date }}{{ if not .IsZero }}{{ $a = merge $a (dict "datePublished" (.Format "2006-01-02")) }}{{ end }}{{ end -}}
   {{- with .Lastmod }}{{ if not .IsZero }}{{ $a = merge $a (dict "dateModified" (.Format "2006-01-02")) }}{{ end }}{{ end -}}

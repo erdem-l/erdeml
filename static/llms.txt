@@ -15,10 +15,12 @@ Use of this content for AI model training, commercial exploitation, or the creat
 - [Fridtjof Nansen Institute](https://fni.no/)
 
 ## Main sections
-- [Publications](https://erdem.no/publication/): peer-reviewed articles, chapters, briefs and reports, most with DOI and PDF
-- [Posts](https://erdem.no/post/): op-eds, commentary and media appearances
-- [Events](https://erdem.no/event/): talks, panels and conferences
-- [Experience](https://erdem.no/experience/): positions and education
+- [Publications](https://erdem.no/publication/): academic work (book, peer-reviewed journal articles, book chapters, reports and policy briefs), most with DOI and PDF
+- [Commentary](https://erdem.no/commentary/): op-eds and policy commentary in newspapers, magazines and expert blogs
+- [Talks](https://erdem.no/event/): conference presentations, panels and public lectures
+- [Media](https://erdem.no/media/): interviews, TV, radio and podcast appearances
+- [Blog](https://erdem.no/post/): research notes and fellowship reports
+- [CV](https://erdem.no/experience/): positions, education and languages
 
 ## Machine-readable
 - [Sitemap](https://erdem.no/sitemap.xml)

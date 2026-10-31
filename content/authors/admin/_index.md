@@ -164,23 +164,12 @@ awards:
     icon: 
     summary: |
       
-  - title:  
-    url: 
-    date: 
-    awarder: 
-    icon: 
-    summary: |
-
-  - title: 
-    url: 
-    certificate_url: 
-    date: 
-    awarder: 
-    icon: 
-    summary: |
-      
 ---
 
-## About Me
+I am a PhD Research Fellow at the [Fridtjof Nansen Institute](https://www.fni.no/) and the University of Oslo, and a Research Fellow with the [North American and Arctic Defence and Security Network](https://naadsn.ca/person/erdem-lamazhapov/) (NAADSN). I study international relations, with a focus on China and Russia in the Arctic.
 
-Hi, I am a PhD Research Fellow at the Fridtjof Nansen Institute and the University of Oslo, and a Research Fellow with the North American and Arctic Defence and Security Network (NAADSN). I have a background in international relations and my PhD is on China's Arctic Policy. My main research interest is Chinese and Russian foreign policy and Arctic geopolitics. My other research interests are Sino-Russian relations, Russia's environmental politics, and the Korean penninsula.
+My PhD is on China's Arctic policy: how Beijing explains its Arctic interests, how it seeks status as a "polar great power", and how the Arctic states have received it. My other research interests are Sino-Russian relations, Russia's environmental politics, and the Korean peninsula.
+
+With Serafima Andreeva I have written [*Kampen om Grønland*](/publication/andreeva-kampen-2026/) (Humanist forlag, 2026), a book on Greenland, the Greenlanders and the great-power interest in the island.
+
+I write [commentary](/commentary/) for Norwegian and international outlets, and comment on Arctic affairs in the [media](/media/). I hold an MPhil in Peace and Conflict Studies from the University of Oslo and a BA in International Relations from Seoul National University.

@@ -1,0 +1,18 @@
+{{- $p := . -}}
+{{- $lang := partial "erdem/lang" $p.Params.language -}}
+{{- $ext := $p.Params.external_url | default $p.Params.event_url | default "" -}}
+{{- $kind := slice -}}
+{{- with $p.Params.media_kind }}{{ $kind = $kind | append . }}{{ end -}}
+{{- with $lang }}{{ $kind = $kind | append (printf "in %s" .) }}{{ end -}}
+<li class="el-item el-media">
+  <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2 Jan" }}</time>
+  <div>
+    <span class="el-venue">{{ $p.Params.outlet | default $p.Params.event }}</span>{{ with $kind }} <span class="el-meta">({{ delimit . ", " }})</span>{{ end }}:
+    {{ partial "erdem/title" (dict "page" $p "href" ($ext | default $p.RelPermalink) "external" (ne $ext "")) }}
+    {{- $more := slice -}}
+    {{- if and $ext (in $p.RawContent "{{<") }}{{ $more = $more | append (printf `<a href="%s">Watch here</a>` $p.RelPermalink) }}{{ end -}}
+    {{- with $p.Resources.GetMatch "*.pdf" }}{{ $more = $more | append (printf `<a href="%s" target="_blank" rel="noopener">PDF</a>` .RelPermalink) }}{{ end -}}
+    {{- with $p.Params.arabic_summary }}{{ $more = $more | append (printf `<a href="%s">Arabic summary</a>` (. | relURL)) }}{{ end -}}
+    {{ with $more }}<span class="el-links">{{ delimit . " · " | safeHTML }}</span>{{ end }}
+  </div>
+</li>

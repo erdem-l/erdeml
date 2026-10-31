@@ -6,3 +6,55 @@
 .ar-article figure img { max-width: 100%; height: auto; border-radius: .375rem; }
 .ar-article figcaption { font-size: .9rem; opacity: .75; }
 .ar-article blockquote { border-inline-start: 4px solid currentColor; border-inline-end: 0; padding-inline: 1rem; font-style: normal; }
+
+/* ------------------------------------------------------------------
+   List pages: Publications, Commentary, Talks, Media (section list.html layouts)
+   Plain, text-first layout. Self-contained so it does not depend on
+   which Tailwind utilities are in the prebuilt theme bundle.
+   ------------------------------------------------------------------ */
+.el-page { max-width: 46rem; margin: 0 auto; padding: 3rem 1.5rem 4rem; line-height: 1.6; }
+.el-page.el-embed { padding-top: 0; padding-bottom: 0; }
+.el-page a { color: rgb(var(--color-primary-600)); text-decoration: none; }
+.el-page a:hover { text-decoration: underline; }
+.dark .el-page a { color: rgb(var(--color-primary-400)); }
+.el-head h1 { font-size: 2.25rem; font-weight: 700; letter-spacing: -0.01em; margin: 0 0 .75rem; }
+.el-subtitle { font-size: 1.15rem; opacity: .75; margin: -.25rem 0 1rem; }
+.el-intro { opacity: .85; margin-bottom: 1.5rem; }
+.el-intro p { margin: 0 0 .5rem; }
+.el-crumb { font-size: .875rem; margin-bottom: .5rem; }
+.el-crumb a::before { content: "← "; }
+
+.el-toc { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; font-size: .9rem; padding: .75rem 0; margin-bottom: 1rem;
+  border-top: 1px solid rgb(148 163 184 / .35); border-bottom: 1px solid rgb(148 163 184 / .35); }
+.el-count { font-size: .75rem; opacity: .6; }
+
+.el-group { margin-top: 2.25rem; }
+.el-group h2 { font-size: .85rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; opacity: .7; margin: 0 0 .75rem;
+  scroll-margin-top: calc(var(--navbar-height, 4rem) + 1rem); }
+.el-list { list-style: none; margin: 0; padding: 0; }
+.el-item { margin: 0 0 1rem; padding: 0; }
+.el-item .el-title { font-weight: 600; }
+.el-trans { opacity: .7; }
+.el-venue { font-style: italic; }
+.el-venue em { font-style: italic; }
+.el-meta { font-size: .9rem; opacity: .7; }
+.el-links { display: inline-block; font-size: .85rem; margin-left: .25rem; }
+.el-links::before { content: "["; opacity: .6; }
+.el-links::after { content: "]"; opacity: .6; }
+.el-authors a { color: inherit !important; }
+
+/* Dated rows (Talks, Media): date column + text */
+.el-media { display: grid; grid-template-columns: 4.5rem 1fr; gap: .75rem; }
+.el-media time { font-size: .85rem; opacity: .6; padding-top: .1rem; white-space: nowrap; }
+@media (max-width: 480px) { .el-media { grid-template-columns: 1fr; gap: 0; } }
+
+.el-see-also { margin-top: 3rem; font-size: .9rem; opacity: .8; }
+
+/* Media single page */
+.el-facts { display: grid; grid-template-columns: 7rem 1fr; gap: .35rem 1rem; margin: 1.5rem 0; font-size: .95rem; }
+.el-facts dt { font-weight: 600; opacity: .7; }
+.el-facts dd { margin: 0; }
+.el-figure { margin: 1.5rem 0; }
+.el-figure img { max-width: 100%; height: auto; border-radius: .375rem; }
+.el-figure figcaption { font-size: .85rem; opacity: .7; margin-top: .25rem; }
+.el-body { max-width: none; }

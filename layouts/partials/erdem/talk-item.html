@@ -1,0 +1,10 @@
+{{- $p := . -}}
+{{- $where := slice -}}
+{{- with $p.Params.event }}{{ if ne . $p.Title }}{{ $where = $where | append . }}{{ end }}{{ end -}}
+{{- with $p.Params.location }}{{ $where = $where | append (trim . " ,\n") }}{{ end -}}
+<li class="el-item el-media">
+  <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2 Jan" }}</time>
+  <div>
+    {{ partial "erdem/title" (dict "page" $p) }}{{ with $where }}. <span class="el-venue">{{ delimit . ", " | markdownify }}</span>{{ end }}
+  </div>
+</li>

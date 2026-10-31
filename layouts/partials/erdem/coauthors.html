@@ -1,0 +1,4 @@
+{{- /* "with A and B" for co-authors other than the site owner. */ -}}
+{{- $names := slice -}}
+{{- range .Params.authors }}{{ if ne . "admin" }}{{ $names = $names | append . }}{{ end }}{{ end -}}
+{{- with $names }}<span class="el-meta">With {{ delimit . ", " " and " }}.</span>{{ end -}}

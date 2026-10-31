@@ -1,4 +1,6 @@
 ---
+language: 'nb'
+title_en: 'Norway in a new world order'
 title: "Norge i en ny verdensorden"
 event: "NTNU Dragvoll"
 event_url: "https://www.facebook.com/events/ntnu-dragvoll/norge-i-en-ny-verdensorden/1602187187594438/"

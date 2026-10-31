@@ -1,6 +1,6 @@
 ---
-title: "The Democracy Forum"
-event: "China’s strategic interest in the Arctic and implications for global energy markets"
+title: "China’s strategic interest in the Arctic and implications for global energy markets"
+event: "The Democracy Forum"
 event_url: https://thedemocracyforumltd.com/chinas-strategic-interest-in-the-arctic-and-implications-for-global-energy-markets/
 
 summary: 

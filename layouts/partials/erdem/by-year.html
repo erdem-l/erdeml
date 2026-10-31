@@ -1,0 +1,11 @@
+{{- /* Render pages grouped by year. Args: pages, item (partial name), prefix (anchor prefix). */ -}}
+{{- $item := .item -}}
+{{- $prefix := .prefix | default "y" -}}
+{{- range .pages.GroupByDate "2006" -}}
+<section class="el-group">
+  <h2 id="{{ $prefix }}-{{ .Key }}">{{ .Key }}</h2>
+  <ul class="el-list">
+    {{ range .Pages }}{{ partial $item . }}{{ end }}
+  </ul>
+</section>
+{{- end -}}

@@ -1,0 +1,10 @@
+{{- $p := . -}}
+{{- $lang := partial "erdem/lang" $p.Params.language -}}
+<li class="el-item">
+  {{ partial "erdem/title" (dict "page" $p) }}.
+  {{ with $p.Params.publication }}<span class="el-venue">{{ . | markdownify }}</span>,{{ end }}
+  <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2 January 2006" }}</time>.
+  {{ partial "erdem/coauthors" $p }}
+  {{ with $lang }}<span class="el-meta">In {{ . }}.</span>{{ end }}
+  {{ partial "erdem/links" $p }}
+</li>

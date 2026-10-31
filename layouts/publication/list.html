@@ -1,0 +1,50 @@
+{{ define "main" }}
+{{/* Academic publications, grouped by type. Groups are set in content/publication/_index.md. */}}
+<div class="el-page">
+  <header class="el-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="el-intro">{{ . }}</div>{{ end }}
+  </header>
+
+  {{ $pages := .Pages.ByDate.Reverse }}
+  {{ $groups := .Params.groups }}
+  {{ $known := slice }}
+  {{ range $groups }}{{ $known = $known | append .types }}{{ end }}
+  {{ $other := slice }}
+  {{ range $pages }}{{ if not (intersect (.Params.publication_types | default slice) $known) }}{{ $other = $other | append . }}{{ end }}{{ end }}
+
+  <nav class="el-toc" aria-label="Sections">
+    {{ range $groups }}
+      {{ $n := len (where $pages "Params.publication_types" "intersect" .types) }}
+      {{ if $n }}<a href="#{{ .title | anchorize }}">{{ .title }} <span class="el-count">{{ $n }}</span></a>{{ end }}
+    {{ end }}
+    {{ with $other }}<a href="#other">Other <span class="el-count">{{ len . }}</span></a>{{ end }}
+  </nav>
+
+  {{ range $groups }}
+    {{ $g := . }}
+    {{ $items := where $pages "Params.publication_types" "intersect" $g.types }}
+    {{ with $items }}
+    <section class="el-group">
+      <h2 id="{{ $g.title | anchorize }}">{{ $g.title }}</h2>
+      <ul class="el-list">
+        {{ range . }}{{ partial "erdem/citation" . }}{{ end }}
+      </ul>
+    </section>
+    {{ end }}
+  {{ end }}
+
+  {{ with $other }}
+  <section class="el-group">
+    <h2 id="other">Other</h2>
+    <ul class="el-list">
+      {{ range . }}{{ partial "erdem/citation" . }}{{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
+  {{ with site.GetPage "/commentary" }}
+  <p class="el-see-also">Op-eds and policy commentary are listed separately under <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</p>
+  {{ end }}
+</div>
+{{ end }}

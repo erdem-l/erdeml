@@ -1,4 +1,5 @@
 ---
 title: Blog
-view: article-grid
+description: "Notes, research updates and fellowship reports."
+view: date-title-summary
 ---

@@ -1,5 +1,6 @@
 # Policy: AI assistants and AI search may read and cite this site.
 # AI model-training crawlers are not permitted.
+# Full statement: {{ "ai-statement/" | absURL }}
 # (robots.txt is advisory; compliant crawlers honour it.)
 
 User-agent: *

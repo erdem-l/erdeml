@@ -1,0 +1,22 @@
+# Erdem Lamazhapov
+
+> Erdem Lamazhapov is a PhD Research Fellow at the Fridtjof Nansen Institute (FNI) and the University of Oslo. His research covers China's Arctic policy, Sino-Russian relations and Arctic geopolitics.
+
+Please cite this work with attribution and a link to the source page. This content may be quoted and summarised to answer questions; it is not licensed for use as AI training data.
+
+## Profiles
+- [Website](https://erdem.no/): home page, biography and CV
+- [ORCID](https://orcid.org/0000-0002-1501-9615)
+- [Google Scholar](https://scholar.google.com/citations?user=A12HfR4AAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/erdem-l-473a71157/)
+- [Fridtjof Nansen Institute](https://fni.no/)
+
+## Main sections
+- [Publications](https://erdem.no/publication/): peer-reviewed articles, chapters, briefs and reports, most with DOI and PDF
+- [Posts](https://erdem.no/post/): op-eds, commentary and media appearances
+- [Events](https://erdem.no/event/): talks, panels and conferences
+- [Experience](https://erdem.no/experience/): positions and education
+
+## Machine-readable
+- [Sitemap](https://erdem.no/sitemap.xml)
+- [RSS](https://erdem.no/index.xml)

@@ -1,0 +1,49 @@
+{{/* Site-wide JSON-LD. Skips pages that ship their own jsonld-*.json (Arabic article layout). */}}
+{{- if not (.Resources.Match "jsonld-*.json") -}}
+{{- $base := site.BaseURL | strings.TrimSuffix "/" -}}
+{{- $person := dict
+  "@type" "Person"
+  "@id" (printf "%s/#person" $base)
+  "name" "Erdem Lamazhapov"
+  "url" (printf "%s/" $base)
+  "jobTitle" "PhD Research Fellow"
+  "affiliation" (dict "@type" "ResearchOrganization" "name" "Fridtjof Nansen Institute" "url" "https://fni.no/")
+  "alumniOf" (slice (dict "@type" "CollegeOrUniversity" "name" "University of Oslo" "url" "https://www.uio.no/"))
+  "knowsAbout" (slice "China's Arctic policy" "Sino-Russian relations" "Arctic geopolitics")
+  "sameAs" (slice
+    "https://orcid.org/0000-0002-1501-9615"
+    "https://scholar.google.com/citations?user=A12HfR4AAAAJ"
+    "https://www.linkedin.com/in/erdem-l-473a71157/"
+    "https://twitter.com/erdemlam")
+-}}
+{{- $ref := dict "@id" (printf "%s/#person" $base) -}}
+{{- $data := false -}}
+{{- if .IsHome -}}
+  {{- $data = dict "@context" "https://schema.org" "@graph" (slice
+      $person
+      (dict "@type" "WebSite" "@id" (printf "%s/#website" $base) "url" (printf "%s/" $base) "name" site.Title "inLanguage" "en" "publisher" $ref)
+      (dict "@type" "ProfilePage" "url" (printf "%s/" $base) "mainEntity" $ref)) -}}
+{{- else if and (eq .Section "publication") .IsPage -}}
+  {{- $authors := slice -}}
+  {{- range .Params.authors -}}
+    {{- if eq . "admin" -}}{{- $authors = $authors | append $ref -}}
+    {{- else -}}{{- $authors = $authors | append (dict "@type" "Person" "name" .) -}}{{- end -}}
+  {{- end -}}
+  {{- $a := dict "@context" "https://schema.org" "@type" "ScholarlyArticle" "@id" (printf "%s#article" .Permalink) "url" .Permalink "name" .Title "headline" .Title "author" $authors "inLanguage" (.Params.language | default "en") -}}
+  {{- with .Params.abstract }}{{ $a = merge $a (dict "abstract" (. | plainify)) }}{{ end -}}
+  {{- with .Date }}{{ if not .IsZero }}{{ $a = merge $a (dict "datePublished" (.Format "2006-01-02")) }}{{ end }}{{ end -}}
+  {{- with .Params.doi }}{{ $a = merge $a (dict "sameAs" (printf "https://doi.org/%s" .) "identifier" (dict "@type" "PropertyValue" "propertyID" "DOI" "value" .)) }}{{ end -}}
+  {{- with .Params.publication }}{{ $a = merge $a (dict "isPartOf" (dict "@type" "Periodical" "name" (. | replaceRE `[*_]` ""))) }}{{ end -}}
+  {{- $data = $a -}}
+{{- else if and (eq .Section "post") .IsPage -}}
+  {{- $desc := .Params.summary | default .Description | default "" -}}
+  {{- $a := dict "@context" "https://schema.org" "@type" "Article" "url" .Permalink "headline" .Title "author" $ref "publisher" $ref "mainEntityOfPage" .Permalink "inLanguage" (.Params.language | default "en") -}}
+  {{- with $desc }}{{ $a = merge $a (dict "description" (. | plainify)) }}{{ end -}}
+  {{- with .Date }}{{ if not .IsZero }}{{ $a = merge $a (dict "datePublished" (.Format "2006-01-02")) }}{{ end }}{{ end -}}
+  {{- with .Lastmod }}{{ if not .IsZero }}{{ $a = merge $a (dict "dateModified" (.Format "2006-01-02")) }}{{ end }}{{ end -}}
+  {{- $data = $a -}}
+{{- end -}}
+{{- if $data }}
+<script type="application/ld+json">{{ $data | jsonify | safeJS }}</script>
+{{- end }}
+{{- end -}}

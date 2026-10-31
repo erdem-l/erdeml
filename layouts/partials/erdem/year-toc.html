@@ -1,0 +1,4 @@
+{{- $prefix := .prefix | default "y" -}}
+<nav class="el-toc" aria-label="Years">
+  {{ range .pages.GroupByDate "2006" }}<a href="#{{ $prefix }}-{{ .Key }}">{{ .Key }} <span class="el-count">{{ len .Pages }}</span></a>{{ end }}
+</nav>

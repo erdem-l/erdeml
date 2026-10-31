@@ -1,4 +1,6 @@
 ---
+title_en: 'Conceptualising the unity and diversity of Buddhism in historical and contemporary contexts'
+language: 'ru'
 title: Концептуализация единства и многообразия буддизма в историческом и современном
   контексте
 authors:

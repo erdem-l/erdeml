@@ -1,0 +1,16 @@
+---
+outlet: 'The Telegraph'
+media_kind: 'Interview'
+aliases:
+  - /event/260410/
+title: "Trump faces another shipping crisis – this time on his own doorstep"
+event_url: "https://www.msn.com/en-us/news/world/trump-faces-another-shipping-crisis-this-time-on-his-own-doorstep/ar-AA20yx1z"
+date: '2026-04-10T09:00:00Z'
+all_day: true
+publishDate: '2026-04-10T09:00:00Z'
+authors:
+  - admin
+tags: []
+featured: false
+description: "Trump faces another shipping crisis – this time on his own doorstep – The Telegraph, 2026-04-10. Erdem Lamazhapov, Fridtjof Nansen Institute."
+---

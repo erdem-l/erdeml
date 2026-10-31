@@ -1,0 +1,11 @@
+{{- /* One publication as an APA-style list item. */ -}}
+{{- $p := . -}}
+{{- $lang := partial "erdem/lang" $p.Params.language -}}
+<li class="el-item">
+  <span class="el-authors">{{ partial "page_metadata_authors" $p }}</span>
+  ({{ $p.Date.Format "2006" }}).
+  {{ partial "erdem/title" (dict "page" $p) }}.
+  {{ with $p.Params.publication_short | default $p.Params.publication }}<span class="el-venue">{{ . | markdownify }}</span>.{{ end }}
+  {{ with $lang }}<span class="el-meta">In {{ . }}.</span>{{ end }}
+  {{ partial "erdem/links" $p }}
+</li>

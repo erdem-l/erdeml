@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="el-page">
+  <header class="el-head">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="el-intro">{{ . }}</div>{{ end }}
+  </header>
+  {{ $upcoming := (where .Pages "Date" ">=" now).ByDate }}
+  {{ $past := (where .Pages "Date" "<" now).ByDate.Reverse }}
+  {{ with $upcoming }}
+  <section class="el-group">
+    <h2 id="upcoming">Upcoming</h2>
+    <ul class="el-list">{{ range . }}{{ partial "erdem/talk-item" . }}{{ end }}</ul>
+  </section>
+  {{ end }}
+  {{ partial "erdem/by-year" (dict "pages" $past "item" "erdem/talk-item" "prefix" "t") }}
+  {{ with site.GetPage "/media" }}
+  <p class="el-see-also">Interviews and broadcast appearances are listed under <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</p>
+  {{ end }}
+</div>
+{{ end }}

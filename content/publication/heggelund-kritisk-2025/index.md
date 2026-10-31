@@ -1,4 +1,6 @@
 ---
+title_en: 'The critical battle for minerals'
+language: 'nb'
 title: 'Kritisk kamp om mineralene'
 authors:
 - Gørild Heggelund

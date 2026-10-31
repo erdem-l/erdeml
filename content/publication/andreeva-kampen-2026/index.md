@@ -1,4 +1,6 @@
 ---
+title_en: 'The Struggle for Greenland'
+language: 'nb'
 title: 'Kampen om Grønland'
 authors:
 - Serafima Andreeva

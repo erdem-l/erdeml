@@ -1,0 +1,5 @@
+{{- /* Title with optional English translation and link. Args: page, href, external */ -}}
+{{- $p := .page -}}
+{{- $href := .href | default $p.RelPermalink -}}
+<a href="{{ $href }}"{{ if .external }} target="_blank" rel="noopener"{{ end }} class="el-title">{{ $p.Title | emojify }}</a>
+{{- with $p.Params.title_en }} <span class="el-trans">[{{ . }}]</span>{{ end -}}

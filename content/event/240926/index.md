@@ -1,4 +1,6 @@
 ---
+language: 'nb'
+title_en: 'The Arctic and the High North between the great powers'
 title: "Arktis/Nordområdene mellom stormaktene"
 event: "Røvær Havbrukssenter – Komle og kunnskap"
 event_url: "https://rovarhavhotell.no/event/rovaer-havbrukssenter-arrangerer-komle-og-kunnskap-6/"

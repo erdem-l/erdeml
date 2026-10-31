@@ -1,0 +1,10 @@
+{{- /* Compact links for a list entry: PDF, DOI, external URL(s). */ -}}
+{{- $p := . -}}
+{{- $out := slice -}}
+{{- $pdf := "" -}}
+{{- with $p.Resources.GetMatch (printf "%s.pdf" $p.File.ContentBaseName) }}{{ $pdf = .RelPermalink }}{{ else }}{{ with $p.Params.url_pdf }}{{ $pdf = . | relURL }}{{ end }}{{ end -}}
+{{- with $pdf }}{{ $out = $out | append (printf `<a href="%s" target="_blank" rel="noopener">PDF</a>` .) }}{{ end -}}
+{{- with $p.Params.doi }}{{ $out = $out | append (printf `<a href="https://doi.org/%s" target="_blank" rel="noopener">DOI</a>` .) }}{{ end -}}
+{{- range $p.Params.links }}{{ if and .url (not (and $p.Params.doi (in .url $p.Params.doi))) }}{{ $name := cond (or (not .name) (eq .name "URL")) "Online" .name }}{{ $out = $out | append (printf `<a href="%s" target="_blank" rel="noopener">%s</a>` (trim .url " \n") $name) }}{{ end }}{{ end -}}
+{{- with $p.Params.arabic_summary }}{{ $out = $out | append (printf `<a href="%s">Arabic summary</a>` (. | relURL)) }}{{ end -}}
+{{- with $out }}<span class="el-links">{{ delimit . " · " | safeHTML }}</span>{{ end -}}

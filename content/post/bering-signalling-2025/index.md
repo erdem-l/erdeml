@@ -2,7 +2,7 @@
 title: "What are Russia and China signalling in the Bering Sea?"
 summary: Russia and China have sharply increased joint naval, air and coast guard exercises in the North Pacific since 2022. A short carousel on what these exercises signal, based on my article with Andreas Østhagen in the Arctic Yearbook 2025.
 date: 2025-11-29
-url_pdf: bering-signalling-slides.pdf
+url_pdf: /post/bering-signalling-2025/bering-signalling-slides.pdf
 image:
   caption: 'Photo: China Coast Guard'
   alt_text: 'Title slide: What are Russia and China signalling in the Bering Sea?'

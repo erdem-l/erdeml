@@ -19,3 +19,11 @@ links:
   url: https://www.humanistforlag.no/boker/kampen-om-gronland/
 description: "Grønland har igjen verdens blikk rettet mot seg. I to hundre år har flere land villet erobre Grønland på grunn av landets ressurser og strategiske…"
 ---
+
+## Reviews
+
+> Den nyeste utgivelsen i «Smart fort»-serien handler om nasjonen Kalaallit Nunaat, som vi kaller Grønland, og alle andre land som har siklet på den store øya. Her er Donald Trump slett ikke førstemann. Den norske presten Hans Egede innledet i 1721 den moderne koloniseringen da han etablerte en dansk-norsk misjon og handelsstasjon, mens USA for første gang undersøkte muligheten å kjøpe øya i 1867. Et konkret tilbud kom på bordet i 1946, i mellomtiden ble Øst-Grønland okkupert av Norge i 1931. Men det viktigste for forfatterne, de geopolitiske forskerne Serafima Andreeva og Erdem Lamazhapov ved Fridtjof Nansens Institutt, er å fortelle historien om en nasjon på vei mot selvstendighet.
+>
+> — Øyvind Holen, *DN Lørdag* (Dagens Næringsliv), 24 October 2026
+
+*In English:* The latest release in the "Smart fort" series is about the nation of Kalaallit Nunaat, which we call Greenland, and all the other countries that have coveted the great island. Donald Trump is far from the first. The Norwegian priest Hans Egede began the modern colonisation in 1721 when he set up a Dano-Norwegian mission and trading post, while the United States first looked into buying the island in 1867. A concrete offer came in 1946; in the meantime, East Greenland was occupied by Norway in 1931. But what matters most to the authors, the geopolitics researchers Serafima Andreeva and Erdem Lamazhapov at the Fridtjof Nansen Institute, is telling the story of a nation on its way to independence.

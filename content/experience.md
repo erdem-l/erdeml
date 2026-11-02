@@ -22,8 +22,15 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-languages
+  - block: markdown
     content:
       title: Languages
-      username: admin
+      text: |-
+        <dl class="el-langs">
+          <dt>Native</dt><dd>Russian, Buryat-Mongolian</dd>
+          <dt>Fluent</dt><dd>English, Norwegian</dd>
+          <dt>Advanced</dt><dd>Korean (TOPIK&nbsp;level&nbsp;6), German (TestDaF&nbsp;TDN&nbsp;5,&nbsp;C1), Chinese</dd>
+        </dl>
+    design:
+      columns: '1'
 ---

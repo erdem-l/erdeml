@@ -29,8 +29,7 @@ sections:
         <dl class="el-langs">
           <dt>Native</dt><dd>Russian, Buryat-Mongolian</dd>
           <dt>Fluent</dt><dd>English, Norwegian</dd>
-          <dt>Advanced</dt><dd>Korean (TOPIK level 6), Chinese (around HSK 5–6)</dd>
-          <dt>Working knowledge</dt><dd>German</dd>
+          <dt>Advanced</dt><dd>Korean (TOPIK&nbsp;level&nbsp;6), German (TestDaF&nbsp;TDN&nbsp;5,&nbsp;C1), Chinese</dd>
         </dl>
     design:
       columns: '1'

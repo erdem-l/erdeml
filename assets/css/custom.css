@@ -63,3 +63,9 @@
 .el-video { margin: 1.5rem 0; }
 .el-video video { width: 100%; height: auto; aspect-ratio: 16 / 9; background: #000; border-radius: .375rem; }
 .el-video figcaption { font-size: .85rem; opacity: .7; margin-top: .35rem; }
+
+/* CV page: languages list */
+.el-langs { display: grid; grid-template-columns: max-content 1fr; gap: .5rem 2rem; margin: 0 auto !important; max-width: 36rem; align-items: baseline; }
+.el-langs dt, .el-langs dd { margin: 0 !important; padding: 0 !important; line-height: 1.5; }
+.el-langs dt { font-weight: 600; opacity: .7; }
+@media (max-width: 480px) { .el-langs { grid-template-columns: 1fr; gap: 0; } .el-langs dd { margin-bottom: .75rem !important; } }

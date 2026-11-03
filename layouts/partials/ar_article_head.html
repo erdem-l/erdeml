@@ -186,7 +186,7 @@
   {{/* Structured data supplied with the page (Article + FAQPage) */}}
   {{ range .Resources.Match "jsonld-*.json" }}
   <script type="application/ld+json">
-{{ .Content | safeHTML }}
+{{ .Content | transform.Unmarshal | jsonify | safeJS }}
   </script>
   {{ end }}
 

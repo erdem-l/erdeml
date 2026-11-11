@@ -13,7 +13,7 @@ tags: []
 featured: false
 description: "Erdem Lamazhapov (Fridtjof Nansen Institute) moderated the panel The Future of Geopolitics and Navigating the Arctic at the Fourth Annual Canada-Norway Gauntlet Seminar, Canadian War Museum, Ottawa, 12 November 2026."
 ---
-Panel at the **Fourth Annual Canada-Norway Gauntlet Seminar**, *Defending the North: Norway, Canada, and the Future of Arctic Security*, hosted with the North American and Arctic Defence and Security Network (NAADSN). The seminar was by invitation only.
+Panel at the **Fourth Annual Canada-Norway Gauntlet Seminar**, *Defending the North: Norway, Canada, and the Future of Arctic Security*. The seminar was by invitation only.
 
 The seminar looked at hybrid and "grey-zone" threats to the Canadian Arctic and European High North, and at what Canada can learn from Norway and the other Nordic countries about total defence, societal resilience and civil-military relations. It is named after Operation GAUNTLET in 1941, Canada's first expeditionary operation in the Arctic, in which Canadian, Norwegian and British forces took part in Svalbard.
 

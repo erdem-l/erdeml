@@ -16,7 +16,10 @@ image:
   caption: 'Event poster'
   alt_text: 'Poster for the Arctic Panel Discussion on 20 October, 17:00–18:00, ULIP Lecture Theatre, with speakers Eda Ayaydin, Gustaf Winstrand and Erdem Lamazhapov'
 featured: false
+url_video: 'https://youtube.com/live/fD1G19CWKY8'
 ---
+{{< youtube fD1G19CWKY8 >}}
+
 Join an insightful **Arctic Panel Discussion**: engage with academic experts and a Swedish embassy Foreign Policy Advisor.
 
 - **Date:** 20 October 2026, 17:00–18:00

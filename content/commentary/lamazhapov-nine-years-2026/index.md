@@ -44,7 +44,3 @@ Externally, the label has allowed China to frame cooperation with Russia when th
 Provinces and port cities have promoted themselves as gateways to Arctic routes. For example, Kossa [argues](https://doi.org/10.1080/14781158.2019.1648406) that China’s northeastern provinces, which traditionally cooperate with Russia, used this high-level slogan to promote their existing long-standing preferences. Landlocked Jilin, which had long pursued a strategy of “borrowing a port to go to the sea”, and coastal Liaoning, which had long promoted a “Northeast New Silk Road” out of Dalian, both could present their policies to Beijing as the specific implementation of the BRI. The enthusiasm around the Polar Silk Road united domestic actors with divergent interests, and as those interests changed, some actors dropped out.
 
 Fears that the Polar Silk Road is an instrument for gaining control in the Arctic or over Greenland mistake what is essentially a slogan for a coherent, centrally-directed strategy. Still, while the slogan is heard less frequently these days, it has not yet fallen into obscurity. Under the right conditions, China might find it useful to defrost the Polar Silk Road.
-
----
-
-*All views expressed are those of the writer and do not necessarily represent those of the 9DASHLINE.com platform.*
